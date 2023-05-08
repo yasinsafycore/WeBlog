@@ -1,0 +1,20 @@
+﻿@model WeBloge.Domain.Entities.Admin.Writer
+
+@{
+    ViewData["Title"] = "نویسنده";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<!--author-->
+<section class="section author full-space mb-40 pt-55">
+    <div class="container-fluid">
+        <div class="row">
+            <div class="col-lg-12">
+                
+                    @await Component.InvokeAsync("WriterProfile")
+                
+            </div>
+        </div>
+    </div>
+</section>
+

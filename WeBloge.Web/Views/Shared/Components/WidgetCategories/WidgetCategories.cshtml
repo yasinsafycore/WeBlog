@@ -1,0 +1,11 @@
+﻿@model List<WeBloge.Domain.Entities.Admin.Categories>
+
+@if (Model.Any() && Model != null)
+{
+    foreach (var item in Model)
+    {
+        <li>
+            <a href="javascript:%20void(0);" class="categorie">@item.Title</a>
+       </li>
+    }
+}

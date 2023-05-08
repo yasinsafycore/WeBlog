@@ -1,0 +1,17 @@
+﻿@model WeBloge.Domain.Entities.Admin.Writer
+
+@if (Model != null)
+{
+    <div class="user-wid text-center py-4">
+        <div class="user-img">
+            <img src="/content/gallery/@Model.Img" alt="" class="avatar-md mx-auto rounded-circle">
+        </div>
+
+        <div class="mt-3">
+
+            <a href="#" class="text-dark font-weight-medium font-size-16 line-height-h">@($"{Model.FirstName} {Model.LastName}")</a>
+            <p class="text-body mt-1 mb-0 font-size-13">ادمین</p>
+
+        </div>
+    </div>
+}

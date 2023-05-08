@@ -1,0 +1,60 @@
+A:\.Net5\WeBloge\WeBloge.Domain\bin\Debug\net5.0\WeBloge.Domain.deps.json
+A:\.Net5\WeBloge\WeBloge.Domain\bin\Debug\net5.0\WeBloge.Domain.dll
+A:\.Net5\WeBloge\WeBloge.Domain\bin\Debug\net5.0\WeBloge.Domain.pdb
+A:\.Net5\WeBloge\WeBloge.Domain\obj\Debug\net5.0\WeBloge.Domain.csproj.AssemblyReference.cache
+A:\.Net5\WeBloge\WeBloge.Domain\obj\Debug\net5.0\WeBloge.Domain.GeneratedMSBuildEditorConfig.editorconfig
+A:\.Net5\WeBloge\WeBloge.Domain\obj\Debug\net5.0\WeBloge.Domain.AssemblyInfoInputs.cache
+A:\.Net5\WeBloge\WeBloge.Domain\obj\Debug\net5.0\WeBloge.Domain.AssemblyInfo.cs
+A:\.Net5\WeBloge\WeBloge.Domain\obj\Debug\net5.0\WeBloge.Domain.csproj.CoreCompileInputs.cache
+A:\.Net5\WeBloge\WeBloge.Domain\obj\Debug\net5.0\WeBloge.Domain.dll
+A:\.Net5\WeBloge\WeBloge.Domain\obj\Debug\net5.0\refint\WeBloge.Domain.dll
+A:\.Net5\WeBloge\WeBloge.Domain\obj\Debug\net5.0\WeBloge.Domain.pdb
+A:\.Net5\WeBloge\WeBloge.Domain\obj\Debug\net5.0\ref\WeBloge.Domain.dll
+A:\.Net5\WeBloge\WeBloge.Domain\bin\Debug\net5.0\WeBloge.Domain.runtimeconfig.json
+A:\.Net5\WeBloge\WeBloge.Domain\bin\Debug\net5.0\WeBloge.Domain.runtimeconfig.dev.json
+A:\.Net5\WeBloge\WeBloge.Domain\obj\Debug\net5.0\WeBloge.Domain.genruntimeconfig.cache
+E:\.Net5\WeBloge\WeBloge.Domain\bin\Debug\net5.0\WeBloge.Domain.deps.json
+E:\.Net5\WeBloge\WeBloge.Domain\bin\Debug\net5.0\WeBloge.Domain.runtimeconfig.json
+E:\.Net5\WeBloge\WeBloge.Domain\bin\Debug\net5.0\WeBloge.Domain.runtimeconfig.dev.json
+E:\.Net5\WeBloge\WeBloge.Domain\bin\Debug\net5.0\WeBloge.Domain.dll
+E:\.Net5\WeBloge\WeBloge.Domain\bin\Debug\net5.0\WeBloge.Domain.pdb
+E:\.Net5\WeBloge\WeBloge.Domain\obj\Debug\net5.0\WeBloge.Domain.csproj.AssemblyReference.cache
+E:\.Net5\WeBloge\WeBloge.Domain\obj\Debug\net5.0\WeBloge.Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\.Net5\WeBloge\WeBloge.Domain\obj\Debug\net5.0\WeBloge.Domain.AssemblyInfoInputs.cache
+E:\.Net5\WeBloge\WeBloge.Domain\obj\Debug\net5.0\WeBloge.Domain.AssemblyInfo.cs
+E:\.Net5\WeBloge\WeBloge.Domain\obj\Debug\net5.0\WeBloge.Domain.csproj.CoreCompileInputs.cache
+E:\.Net5\WeBloge\WeBloge.Domain\obj\Debug\net5.0\WeBloge.Domain.dll
+E:\.Net5\WeBloge\WeBloge.Domain\obj\Debug\net5.0\refint\WeBloge.Domain.dll
+E:\.Net5\WeBloge\WeBloge.Domain\obj\Debug\net5.0\WeBloge.Domain.pdb
+E:\.Net5\WeBloge\WeBloge.Domain\obj\Debug\net5.0\WeBloge.Domain.genruntimeconfig.cache
+E:\.Net5\WeBloge\WeBloge.Domain\obj\Debug\net5.0\ref\WeBloge.Domain.dll
+A:\ASP.NET CORE\WeBloge\WeBloge.Domain\bin\Debug\net5.0\WeBloge.Domain.deps.json
+A:\ASP.NET CORE\WeBloge\WeBloge.Domain\bin\Debug\net5.0\WeBloge.Domain.runtimeconfig.json
+A:\ASP.NET CORE\WeBloge\WeBloge.Domain\bin\Debug\net5.0\WeBloge.Domain.runtimeconfig.dev.json
+A:\ASP.NET CORE\WeBloge\WeBloge.Domain\bin\Debug\net5.0\WeBloge.Domain.dll
+A:\ASP.NET CORE\WeBloge\WeBloge.Domain\bin\Debug\net5.0\WeBloge.Domain.pdb
+A:\ASP.NET CORE\WeBloge\WeBloge.Domain\obj\Debug\net5.0\WeBloge.Domain.csproj.AssemblyReference.cache
+A:\ASP.NET CORE\WeBloge\WeBloge.Domain\obj\Debug\net5.0\WeBloge.Domain.GeneratedMSBuildEditorConfig.editorconfig
+A:\ASP.NET CORE\WeBloge\WeBloge.Domain\obj\Debug\net5.0\WeBloge.Domain.AssemblyInfoInputs.cache
+A:\ASP.NET CORE\WeBloge\WeBloge.Domain\obj\Debug\net5.0\WeBloge.Domain.AssemblyInfo.cs
+A:\ASP.NET CORE\WeBloge\WeBloge.Domain\obj\Debug\net5.0\WeBloge.Domain.csproj.CoreCompileInputs.cache
+A:\ASP.NET CORE\WeBloge\WeBloge.Domain\obj\Debug\net5.0\WeBloge.Domain.dll
+A:\ASP.NET CORE\WeBloge\WeBloge.Domain\obj\Debug\net5.0\refint\WeBloge.Domain.dll
+A:\ASP.NET CORE\WeBloge\WeBloge.Domain\obj\Debug\net5.0\WeBloge.Domain.pdb
+A:\ASP.NET CORE\WeBloge\WeBloge.Domain\obj\Debug\net5.0\WeBloge.Domain.genruntimeconfig.cache
+A:\ASP.NET CORE\WeBloge\WeBloge.Domain\obj\Debug\net5.0\ref\WeBloge.Domain.dll
+F:\ASP.NET CORE\WeBloge\WeBloge.Domain\bin\Debug\net5.0\WeBloge.Domain.deps.json
+F:\ASP.NET CORE\WeBloge\WeBloge.Domain\bin\Debug\net5.0\WeBloge.Domain.runtimeconfig.json
+F:\ASP.NET CORE\WeBloge\WeBloge.Domain\bin\Debug\net5.0\WeBloge.Domain.runtimeconfig.dev.json
+F:\ASP.NET CORE\WeBloge\WeBloge.Domain\bin\Debug\net5.0\WeBloge.Domain.dll
+F:\ASP.NET CORE\WeBloge\WeBloge.Domain\bin\Debug\net5.0\WeBloge.Domain.pdb
+F:\ASP.NET CORE\WeBloge\WeBloge.Domain\obj\Debug\net5.0\WeBloge.Domain.csproj.AssemblyReference.cache
+F:\ASP.NET CORE\WeBloge\WeBloge.Domain\obj\Debug\net5.0\WeBloge.Domain.GeneratedMSBuildEditorConfig.editorconfig
+F:\ASP.NET CORE\WeBloge\WeBloge.Domain\obj\Debug\net5.0\WeBloge.Domain.AssemblyInfoInputs.cache
+F:\ASP.NET CORE\WeBloge\WeBloge.Domain\obj\Debug\net5.0\WeBloge.Domain.AssemblyInfo.cs
+F:\ASP.NET CORE\WeBloge\WeBloge.Domain\obj\Debug\net5.0\WeBloge.Domain.csproj.CoreCompileInputs.cache
+F:\ASP.NET CORE\WeBloge\WeBloge.Domain\obj\Debug\net5.0\WeBloge.Domain.dll
+F:\ASP.NET CORE\WeBloge\WeBloge.Domain\obj\Debug\net5.0\refint\WeBloge.Domain.dll
+F:\ASP.NET CORE\WeBloge\WeBloge.Domain\obj\Debug\net5.0\WeBloge.Domain.pdb
+F:\ASP.NET CORE\WeBloge\WeBloge.Domain\obj\Debug\net5.0\WeBloge.Domain.genruntimeconfig.cache
+F:\ASP.NET CORE\WeBloge\WeBloge.Domain\obj\Debug\net5.0\ref\WeBloge.Domain.dll

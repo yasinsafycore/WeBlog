@@ -1,0 +1,72 @@
+A:\.Net5\WeBloge\WeBloge.DataLayer\bin\Debug\net5.0\WeBloge.DataLayer.deps.json
+A:\.Net5\WeBloge\WeBloge.DataLayer\bin\Debug\net5.0\WeBloge.DataLayer.runtimeconfig.json
+A:\.Net5\WeBloge\WeBloge.DataLayer\bin\Debug\net5.0\WeBloge.DataLayer.runtimeconfig.dev.json
+A:\.Net5\WeBloge\WeBloge.DataLayer\bin\Debug\net5.0\WeBloge.DataLayer.dll
+A:\.Net5\WeBloge\WeBloge.DataLayer\bin\Debug\net5.0\WeBloge.DataLayer.pdb
+A:\.Net5\WeBloge\WeBloge.DataLayer\obj\Debug\net5.0\WeBloge.DataLayer.csproj.AssemblyReference.cache
+A:\.Net5\WeBloge\WeBloge.DataLayer\obj\Debug\net5.0\WeBloge.DataLayer.GeneratedMSBuildEditorConfig.editorconfig
+A:\.Net5\WeBloge\WeBloge.DataLayer\obj\Debug\net5.0\WeBloge.DataLayer.AssemblyInfoInputs.cache
+A:\.Net5\WeBloge\WeBloge.DataLayer\obj\Debug\net5.0\WeBloge.DataLayer.AssemblyInfo.cs
+A:\.Net5\WeBloge\WeBloge.DataLayer\obj\Debug\net5.0\WeBloge.DataLayer.csproj.CoreCompileInputs.cache
+A:\.Net5\WeBloge\WeBloge.DataLayer\obj\Debug\net5.0\WeBloge.DataLayer.dll
+A:\.Net5\WeBloge\WeBloge.DataLayer\obj\Debug\net5.0\refint\WeBloge.DataLayer.dll
+A:\.Net5\WeBloge\WeBloge.DataLayer\obj\Debug\net5.0\WeBloge.DataLayer.pdb
+A:\.Net5\WeBloge\WeBloge.DataLayer\obj\Debug\net5.0\WeBloge.DataLayer.genruntimeconfig.cache
+A:\.Net5\WeBloge\WeBloge.DataLayer\obj\Debug\net5.0\ref\WeBloge.DataLayer.dll
+A:\.Net5\WeBloge\WeBloge.DataLayer\bin\Debug\net5.0\WeBloge.Domain.dll
+A:\.Net5\WeBloge\WeBloge.DataLayer\bin\Debug\net5.0\WeBloge.Domain.pdb
+A:\.Net5\WeBloge\WeBloge.DataLayer\obj\Debug\net5.0\WeBloge.DataLayer.csproj.CopyComplete
+E:\.Net5\WeBloge\WeBloge.DataLayer\bin\Debug\net5.0\WeBloge.DataLayer.deps.json
+E:\.Net5\WeBloge\WeBloge.DataLayer\bin\Debug\net5.0\WeBloge.DataLayer.runtimeconfig.json
+E:\.Net5\WeBloge\WeBloge.DataLayer\bin\Debug\net5.0\WeBloge.DataLayer.runtimeconfig.dev.json
+E:\.Net5\WeBloge\WeBloge.DataLayer\bin\Debug\net5.0\WeBloge.DataLayer.dll
+E:\.Net5\WeBloge\WeBloge.DataLayer\bin\Debug\net5.0\WeBloge.DataLayer.pdb
+E:\.Net5\WeBloge\WeBloge.DataLayer\bin\Debug\net5.0\WeBloge.Domain.dll
+E:\.Net5\WeBloge\WeBloge.DataLayer\bin\Debug\net5.0\WeBloge.Domain.pdb
+E:\.Net5\WeBloge\WeBloge.DataLayer\obj\Debug\net5.0\WeBloge.DataLayer.csproj.AssemblyReference.cache
+E:\.Net5\WeBloge\WeBloge.DataLayer\obj\Debug\net5.0\WeBloge.DataLayer.GeneratedMSBuildEditorConfig.editorconfig
+E:\.Net5\WeBloge\WeBloge.DataLayer\obj\Debug\net5.0\WeBloge.DataLayer.AssemblyInfoInputs.cache
+E:\.Net5\WeBloge\WeBloge.DataLayer\obj\Debug\net5.0\WeBloge.DataLayer.AssemblyInfo.cs
+E:\.Net5\WeBloge\WeBloge.DataLayer\obj\Debug\net5.0\WeBloge.DataLayer.csproj.CoreCompileInputs.cache
+E:\.Net5\WeBloge\WeBloge.DataLayer\obj\Debug\net5.0\WeBloge.DataLayer.csproj.CopyComplete
+E:\.Net5\WeBloge\WeBloge.DataLayer\obj\Debug\net5.0\WeBloge.DataLayer.dll
+E:\.Net5\WeBloge\WeBloge.DataLayer\obj\Debug\net5.0\refint\WeBloge.DataLayer.dll
+E:\.Net5\WeBloge\WeBloge.DataLayer\obj\Debug\net5.0\WeBloge.DataLayer.pdb
+E:\.Net5\WeBloge\WeBloge.DataLayer\obj\Debug\net5.0\WeBloge.DataLayer.genruntimeconfig.cache
+E:\.Net5\WeBloge\WeBloge.DataLayer\obj\Debug\net5.0\ref\WeBloge.DataLayer.dll
+A:\ASP.NET CORE\WeBloge\WeBloge.DataLayer\bin\Debug\net5.0\WeBloge.DataLayer.deps.json
+A:\ASP.NET CORE\WeBloge\WeBloge.DataLayer\bin\Debug\net5.0\WeBloge.DataLayer.runtimeconfig.json
+A:\ASP.NET CORE\WeBloge\WeBloge.DataLayer\bin\Debug\net5.0\WeBloge.DataLayer.runtimeconfig.dev.json
+A:\ASP.NET CORE\WeBloge\WeBloge.DataLayer\bin\Debug\net5.0\WeBloge.DataLayer.dll
+A:\ASP.NET CORE\WeBloge\WeBloge.DataLayer\bin\Debug\net5.0\WeBloge.DataLayer.pdb
+A:\ASP.NET CORE\WeBloge\WeBloge.DataLayer\bin\Debug\net5.0\WeBloge.Domain.dll
+A:\ASP.NET CORE\WeBloge\WeBloge.DataLayer\bin\Debug\net5.0\WeBloge.Domain.pdb
+A:\ASP.NET CORE\WeBloge\WeBloge.DataLayer\obj\Debug\net5.0\WeBloge.DataLayer.csproj.AssemblyReference.cache
+A:\ASP.NET CORE\WeBloge\WeBloge.DataLayer\obj\Debug\net5.0\WeBloge.DataLayer.GeneratedMSBuildEditorConfig.editorconfig
+A:\ASP.NET CORE\WeBloge\WeBloge.DataLayer\obj\Debug\net5.0\WeBloge.DataLayer.AssemblyInfoInputs.cache
+A:\ASP.NET CORE\WeBloge\WeBloge.DataLayer\obj\Debug\net5.0\WeBloge.DataLayer.AssemblyInfo.cs
+A:\ASP.NET CORE\WeBloge\WeBloge.DataLayer\obj\Debug\net5.0\WeBloge.DataLayer.csproj.CoreCompileInputs.cache
+A:\ASP.NET CORE\WeBloge\WeBloge.DataLayer\obj\Debug\net5.0\WeBloge.DataLayer.csproj.CopyComplete
+A:\ASP.NET CORE\WeBloge\WeBloge.DataLayer\obj\Debug\net5.0\WeBloge.DataLayer.dll
+A:\ASP.NET CORE\WeBloge\WeBloge.DataLayer\obj\Debug\net5.0\refint\WeBloge.DataLayer.dll
+A:\ASP.NET CORE\WeBloge\WeBloge.DataLayer\obj\Debug\net5.0\WeBloge.DataLayer.pdb
+A:\ASP.NET CORE\WeBloge\WeBloge.DataLayer\obj\Debug\net5.0\WeBloge.DataLayer.genruntimeconfig.cache
+A:\ASP.NET CORE\WeBloge\WeBloge.DataLayer\obj\Debug\net5.0\ref\WeBloge.DataLayer.dll
+F:\ASP.NET CORE\WeBloge\WeBloge.DataLayer\bin\Debug\net5.0\WeBloge.DataLayer.deps.json
+F:\ASP.NET CORE\WeBloge\WeBloge.DataLayer\bin\Debug\net5.0\WeBloge.DataLayer.runtimeconfig.json
+F:\ASP.NET CORE\WeBloge\WeBloge.DataLayer\bin\Debug\net5.0\WeBloge.DataLayer.runtimeconfig.dev.json
+F:\ASP.NET CORE\WeBloge\WeBloge.DataLayer\bin\Debug\net5.0\WeBloge.DataLayer.dll
+F:\ASP.NET CORE\WeBloge\WeBloge.DataLayer\bin\Debug\net5.0\WeBloge.DataLayer.pdb
+F:\ASP.NET CORE\WeBloge\WeBloge.DataLayer\bin\Debug\net5.0\WeBloge.Domain.dll
+F:\ASP.NET CORE\WeBloge\WeBloge.DataLayer\bin\Debug\net5.0\WeBloge.Domain.pdb
+F:\ASP.NET CORE\WeBloge\WeBloge.DataLayer\obj\Debug\net5.0\WeBloge.DataLayer.csproj.AssemblyReference.cache
+F:\ASP.NET CORE\WeBloge\WeBloge.DataLayer\obj\Debug\net5.0\WeBloge.DataLayer.GeneratedMSBuildEditorConfig.editorconfig
+F:\ASP.NET CORE\WeBloge\WeBloge.DataLayer\obj\Debug\net5.0\WeBloge.DataLayer.AssemblyInfoInputs.cache
+F:\ASP.NET CORE\WeBloge\WeBloge.DataLayer\obj\Debug\net5.0\WeBloge.DataLayer.AssemblyInfo.cs
+F:\ASP.NET CORE\WeBloge\WeBloge.DataLayer\obj\Debug\net5.0\WeBloge.DataLayer.csproj.CoreCompileInputs.cache
+F:\ASP.NET CORE\WeBloge\WeBloge.DataLayer\obj\Debug\net5.0\WeBloge.DataLayer.csproj.CopyComplete
+F:\ASP.NET CORE\WeBloge\WeBloge.DataLayer\obj\Debug\net5.0\WeBloge.DataLayer.dll
+F:\ASP.NET CORE\WeBloge\WeBloge.DataLayer\obj\Debug\net5.0\refint\WeBloge.DataLayer.dll
+F:\ASP.NET CORE\WeBloge\WeBloge.DataLayer\obj\Debug\net5.0\WeBloge.DataLayer.pdb
+F:\ASP.NET CORE\WeBloge\WeBloge.DataLayer\obj\Debug\net5.0\WeBloge.DataLayer.genruntimeconfig.cache
+F:\ASP.NET CORE\WeBloge\WeBloge.DataLayer\obj\Debug\net5.0\ref\WeBloge.DataLayer.dll

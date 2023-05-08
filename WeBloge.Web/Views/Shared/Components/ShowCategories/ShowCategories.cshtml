@@ -1,0 +1,23 @@
+﻿@model List<WeBloge.Domain.Entities.Admin.Categories>
+
+@if (!Model.Any())
+{
+    <ul class="dropdown-menu fade-up">
+        <li>
+            <a class="dropdown-item" href="javascript:%20void(0);">متاسفانه هنوز دسته بندی اضافه نشده است!</a>
+        </li>
+    </ul>
+}
+
+else
+{
+    <ul class="dropdown-menu fade-up">
+        @foreach (var item in Model)
+        {
+            <li>
+                <a class="dropdown-item" href="javascript:%20void(0);">@item.Title</a>
+            </li>
+        }
+    </ul>
+}
+

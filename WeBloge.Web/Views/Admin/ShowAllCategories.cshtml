@@ -1,0 +1,77 @@
+﻿@model List<WeBloge.Domain.Entities.Admin.Categories>
+@using WeBloge.Domain.Entities.Admin
+@using WeBloge.Domain.ViewModels.Admin
+
+@{
+    ViewData["Title"] = "دسته بندی ها";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+
+@if (!Model.Any())
+{
+    <div class="alert alert-danger col-lg-5" role="alert">
+        هنوز دسته بندی وارد نشده است! لطفا ابتدا <a asp-action="Categories" asp-controller="Admin">دسته بندی را وارد کنید</a>.
+    </div>
+}
+
+else
+{
+    <div class="row">
+        <div class="col-lg-7">
+            <div class="card">
+                <div class="card-body">
+                    <h4 class="card-title">لیست دسته بندی ها</h4>
+                    <p class="card-title-desc">برای <a asp-action="Categories" asp-controller="Admin">اضافه کردن دسته بندی</a> به روی آن کلیک کنید</p>
+
+                    <div class="table-responsive">
+                        <table class="table mb-0">
+
+                            <thead>
+                                <tr>
+                                    <th>نام دسته بندی</th>
+                                </tr>
+                            </thead>
+
+                            <tbody>
+                                @foreach (var item in Model)
+                                {
+
+                                    if (item.IsDelete)
+                                    {
+                                        <div class="alert alert-danger col-lg-5" role="alert">
+                                            هنوز دسته بندی وارد نشده است! لطفا ابتدا <a asp-action="Categories" asp-controller="Admin">دسته بندی را وارد کنید</a>.
+                                        </div>
+                                    }
+
+                                    else
+                                    {
+                                        <tr>
+                                            <td>@item.Title</td>
+                                            <td style="width: 30%;">
+                                                <a class="btn btn-primary waves-effect waves-light" asp-action="UpdateCategories" asp-controller="Admin" asp-route-categoriesId="@item.Id" role="button">ویرایش دسته بندی</a>
+                                            </td>
+
+                                            <td style="width: 30%;">
+                                                <a class="btn btn-danger" asp-action="DeleteCategories" asp-controller="Admin" asp-route-categoriesId="@item.Id" role="button">حذف کردن دسته بندی</a>
+                                            </td>
+
+                                        </tr>
+                                    }
+
+                                }
+
+                            </tbody>
+
+                        </table>
+                    </div>
+
+                </div>
+            </div>
+        </div>
+
+    </div>
+}
+
+
+

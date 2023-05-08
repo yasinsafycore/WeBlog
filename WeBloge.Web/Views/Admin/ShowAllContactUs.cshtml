@@ -1,0 +1,120 @@
+﻿@using WeBloge.Application.Extensions
+@using WeBloge.Domain.Entities.WeBloge
+@model List<WeBloge.Domain.Entities.WeBloge.ContactUs>
+
+@{
+    ViewData["Title"] = "لیست پیام ها";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+@section Styles
+{
+    <style>
+        .pagination {
+            display: inline-block;
+        }
+
+            .pagination a {
+                color: black;
+                float: left;
+                padding: 8px 16px;
+                text-decoration: none;
+                border: 1px solid #ddd;
+            }
+
+                .pagination a.active {
+                    background-color: #4CAF50;
+                    color: white;
+                    border: 1px solid #4CAF50;
+                }
+
+                .pagination a:hover:not(.active) {
+                    background-color: #ddd;
+                }
+
+                .pagination a:first-child {
+                    border-top-left-radius: 5px;
+                    border-bottom-left-radius: 5px;
+                }
+
+                .pagination a:last-child {
+                    border-top-right-radius: 5px;
+                    border-bottom-right-radius: 5px;
+                }
+    </style>
+}
+
+@if (!Model.Any())
+{
+    <div class="alert alert-danger col-lg-5" role="alert">
+        متاسفانه! هنوز پیامی وارد نشده است
+    </div>
+}
+
+else
+{
+    <div class="row">
+        <div class="col-lg-10">
+            <div class="card">
+                <div class="card-body">
+                    <h4 class="card-title">لیست پیام های دریافت شده</h4>
+
+                    <div class="table-responsive">
+                        <table class="table mb-0">
+
+                            <thead>
+                                <tr>
+                                    <th>نام</th>
+                                    <th>نام خانوادگی</th>
+                                    <th>موضوع</th>
+                                    <th>تاریخ ثبت</th>
+                                </tr>
+                            </thead>
+
+                            <tbody>
+                                @foreach (var item in Model)
+                                {
+
+                                    if (item.IsDelete)
+                                    {
+                                        <div class="alert alert-danger col-lg-5" role="alert">
+                                            متاسفانه! هنوز پیامی وارد نشده است
+                                        </div>
+                                    }
+
+                                    else
+                                    {
+                                        <tr>
+                                            <td>@item.FirstName</td>
+                                            <td>@item.LastName</td>
+                                            <td>@item.Subject</td>
+                                            <td>@item.CreateDate.GetDataShamsi()</td>
+                                            <td style="width: 15%;">
+                                                <a class="btn btn-primary waves-effect waves-light" asp-action="ContactUsDetail" asp-controller="Admin" asp-route-contactId="@item.Id" role="button">نمایش پیام</a>
+                                            </td>
+                                        </tr>
+                                    }
+
+                                }
+
+                            </tbody>
+
+                        </table>
+                    </div>
+
+                </div>
+            </div>
+        </div>
+
+    </div>
+
+    <div class="pagination">
+        <a href="#">&laquo;</a>
+        @for (int i = 1; i <= (ViewBag.PageCount + 1); i++)
+        {
+            <a class="@(((int)ViewBag.PageID==i)?"active":"")" asp-action="ShowAllContactUs" asp-controller="Admin" asp-route-contactUs="@i">@i</a>
+        }
+        <a href="#">&raquo;</a>
+    </div>
+
+}

@@ -1,0 +1,25 @@
+﻿@using WeBloge.Application.Extensions
+@model List<WeBloge.Domain.Entities.Admin.WeBloges>
+
+
+@if(Model != null)
+{
+    foreach (var item in Model)
+    {
+        <li class="last-post">
+            <div class="image">
+                <a asp-action="WeBlogeDetail" asp-controller="WeBloge" asp-route-weBlogesId="@item.Id">
+                    <img src="/content/gallery/@item.Img" alt="...">
+                </a>
+            </div>
+            <div class="content">
+                <p>
+                    <a asp-action="WeBlogeDetail" asp-controller="WeBloge" asp-route-weBlogesId="@item.Id">@item.Title</a>
+                </p>
+                <small>
+                    <span class="icon_clock_alt"></span> @item.CreateDate.GetDataShamsi()
+                </small>
+            </div>
+        </li>
+    }
+}

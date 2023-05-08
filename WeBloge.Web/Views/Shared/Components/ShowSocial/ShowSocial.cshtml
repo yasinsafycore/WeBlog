@@ -1,0 +1,27 @@
+﻿@model WeBloge.Domain.Entities.Admin.Social
+
+@if (Model != null)
+{
+    <ul class="list-inline">
+        <li>
+            <a href="@Model.Facebook">
+                <i class="fab fa-facebook-f"></i>فیسبوک
+            </a>
+        </li>
+        <li>
+            <a href="@Model.Twitter">
+                <i class="fab fa-twitter"></i>توییتر
+            </a>
+        </li>
+        <li>
+            <a href="@Model.Instagram">
+                <i class="fab fa-instagram"></i>اینستگرام
+            </a>
+        </li>
+        <li>
+            <a href="@Model.Youtube">
+                <i class="fab fa-youtube"></i>یوتیوب
+            </a>
+        </li>
+    </ul>
+}

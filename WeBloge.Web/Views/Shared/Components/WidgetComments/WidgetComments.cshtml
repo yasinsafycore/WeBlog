@@ -1,0 +1,26 @@
+﻿@using WeBloge.Application.Extensions
+@model List<WeBloge.Domain.Entities.WeBloge.Comment>
+
+@if (Model.Any())
+{
+    @foreach (var item in Model)
+    {
+        <li class="comment-item">
+            <div class="content">
+                <ul class="info list-inline">
+                    <li class="dot"></li>
+                    <li>@item.CreateDate.GetDataShamsi()</li>
+                </ul>
+                <p>@item.Content</p>
+            </div>
+        </li>
+    }
+}
+
+else
+{
+    <div class="alert alert-success" role="alert">
+        متاسفانه! هنوز دیدگاهی ثبت نشده است.
+    </div>
+}
+

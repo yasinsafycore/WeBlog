@@ -1,0 +1,76 @@
+﻿@model List<WeBloge.Domain.Entities.Admin.WeBloges>
+@using WeBloge.Application.Extensions
+@using WeBloge.Domain.Entities.Admin
+
+@{
+    ViewData["Title"] = "نانپوست";
+}
+
+<!--grid-layout-->
+<section class="section masonry-layout pt-45">
+    <div class="container-fluid">
+        <div class="row">
+            <div class="col-lg-12">
+                <div class="card-columns">
+                    <!--Post-1-->
+                    @if (!Model.Any())
+                    {
+                        <h5>
+                            <a href="post-default.html">متاسفانه! هنوز مقاله ای ثبت نشده است.</a>
+                        </h5>
+                    }
+                    else
+                    {
+                        @foreach (var item in Model)
+                        {
+                            <!--Post-9-->
+                            <div class="card">
+                                <div class="post-card">
+                                    <div class="post-card-image">
+                                        <a asp-action="WeBlogeDetail" asp-controller="WeBloge" asp-route-weBlogesId="@item.Id">
+                                            <img src="/content/gallery/@item.Img" alt="متاسفانه! عکس یافت نشد.">
+                                        </a>
+                                    </div>
+                                    <div class="post-card-content">
+                                        @if (!item.Categories.IsDelete)
+                                        {
+                                            <a asp-action="WeBlogeDetail" asp-controller="WeBloge" asp-route-weBlogesId="@item.Id" class="categorie">@item.Categories.Title</a>
+                                        }
+                                        <h5>
+                                            <a asp-action="WeBlogeDetail" asp-controller="WeBloge" asp-route-weBlogesId="@item.Id">@item.Title</a>
+                                        </h5>
+                                        <div class="post-card-info">
+                                            <ul class="list-inline">
+                                                <li class="dot"></li>
+                                                <li>@item.CreateDate.GetDataShamsi()</li>
+                                            </ul>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <!--/-->
+                        }
+                    }
+
+                    <!--/-->
+                </div>
+                <!--pagination-->
+                <div class="pagination mt-30">
+
+                    <ul class="list-inline">
+                        @for (int i = 1; i <= (ViewBag.PageCount + 1); i++)
+                        {
+                            <li class="@(((int)ViewBag.PageID==i)?"active":"")"><a asp-action="Index" asp-controller="Home" asp-route-weBlogesId="@i">@i<span class="sr-only">(current)</span></a></li>
+                        }
+                        <li>
+                            <a href="#">
+                                <i class="arrow_carrot-2left"></i>
+                            </a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<!--/-->

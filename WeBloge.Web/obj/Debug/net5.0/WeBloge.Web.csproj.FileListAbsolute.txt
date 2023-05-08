@@ -1,0 +1,816 @@
+A:\.Net5\WeBloge\WeBloge.Web\bin\Debug\net5.0\appsettings.Development.json
+A:\.Net5\WeBloge\WeBloge.Web\bin\Debug\net5.0\appsettings.json
+A:\.Net5\WeBloge\WeBloge.Web\bin\Debug\net5.0\WeBloge.Web.exe
+A:\.Net5\WeBloge\WeBloge.Web\bin\Debug\net5.0\WeBloge.Web.deps.json
+A:\.Net5\WeBloge\WeBloge.Web\bin\Debug\net5.0\WeBloge.Web.runtimeconfig.json
+A:\.Net5\WeBloge\WeBloge.Web\bin\Debug\net5.0\WeBloge.Web.runtimeconfig.dev.json
+A:\.Net5\WeBloge\WeBloge.Web\bin\Debug\net5.0\WeBloge.Web.dll
+A:\.Net5\WeBloge\WeBloge.Web\bin\Debug\net5.0\WeBloge.Web.pdb
+A:\.Net5\WeBloge\WeBloge.Web\bin\Debug\net5.0\WeBloge.Web.Views.dll
+A:\.Net5\WeBloge\WeBloge.Web\bin\Debug\net5.0\WeBloge.Web.Views.pdb
+A:\.Net5\WeBloge\WeBloge.Web\bin\Debug\net5.0\Humanizer.dll
+A:\.Net5\WeBloge\WeBloge.Web\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+A:\.Net5\WeBloge\WeBloge.Web\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+A:\.Net5\WeBloge\WeBloge.Web\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+A:\.Net5\WeBloge\WeBloge.Web\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+A:\.Net5\WeBloge\WeBloge.Web\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+A:\.Net5\WeBloge\WeBloge.Web\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+A:\.Net5\WeBloge\WeBloge.Web\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+A:\.Net5\WeBloge\WeBloge.Web\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+A:\.Net5\WeBloge\WeBloge.Web\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+A:\.Net5\WeBloge\WeBloge.Web\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+A:\.Net5\WeBloge\WeBloge.Web\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+A:\.Net5\WeBloge\WeBloge.Web\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+A:\.Net5\WeBloge\WeBloge.Web\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+A:\.Net5\WeBloge\WeBloge.Web\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+A:\.Net5\WeBloge\WeBloge.Web\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+A:\.Net5\WeBloge\WeBloge.Web\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+A:\.Net5\WeBloge\WeBloge.Web\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+A:\.Net5\WeBloge\WeBloge.Web\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+A:\.Net5\WeBloge\WeBloge.Web\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+A:\.Net5\WeBloge\WeBloge.Web\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+A:\.Net5\WeBloge\WeBloge.Web\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+A:\.Net5\WeBloge\WeBloge.Web\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+A:\.Net5\WeBloge\WeBloge.Web\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+A:\.Net5\WeBloge\WeBloge.Web\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+A:\.Net5\WeBloge\WeBloge.Web\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+A:\.Net5\WeBloge\WeBloge.Web\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+A:\.Net5\WeBloge\WeBloge.Web\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+A:\.Net5\WeBloge\WeBloge.Web\bin\Debug\net5.0\Newtonsoft.Json.dll
+A:\.Net5\WeBloge\WeBloge.Web\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+A:\.Net5\WeBloge\WeBloge.Web\bin\Debug\net5.0\System.Composition.Convention.dll
+A:\.Net5\WeBloge\WeBloge.Web\bin\Debug\net5.0\System.Composition.Hosting.dll
+A:\.Net5\WeBloge\WeBloge.Web\bin\Debug\net5.0\System.Composition.Runtime.dll
+A:\.Net5\WeBloge\WeBloge.Web\bin\Debug\net5.0\System.Composition.TypedParts.dll
+A:\.Net5\WeBloge\WeBloge.Web\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+A:\.Net5\WeBloge\WeBloge.Web\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+A:\.Net5\WeBloge\WeBloge.Web\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+A:\.Net5\WeBloge\WeBloge.Web\bin\Debug\net5.0\System.Runtime.Caching.dll
+A:\.Net5\WeBloge\WeBloge.Web\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+A:\.Net5\WeBloge\WeBloge.Web\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+A:\.Net5\WeBloge\WeBloge.Web\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+A:\.Net5\WeBloge\WeBloge.Web\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+A:\.Net5\WeBloge\WeBloge.Web\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+A:\.Net5\WeBloge\WeBloge.Web\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+A:\.Net5\WeBloge\WeBloge.Web\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+A:\.Net5\WeBloge\WeBloge.Web\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+A:\.Net5\WeBloge\WeBloge.Web\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+A:\.Net5\WeBloge\WeBloge.Web\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+A:\.Net5\WeBloge\WeBloge.Web\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+A:\.Net5\WeBloge\WeBloge.Web\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+A:\.Net5\WeBloge\WeBloge.Web\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+A:\.Net5\WeBloge\WeBloge.Web\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+A:\.Net5\WeBloge\WeBloge.Web\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+A:\.Net5\WeBloge\WeBloge.Web\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+A:\.Net5\WeBloge\WeBloge.Web\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+A:\.Net5\WeBloge\WeBloge.Web\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+A:\.Net5\WeBloge\WeBloge.Web\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+A:\.Net5\WeBloge\WeBloge.Web\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+A:\.Net5\WeBloge\WeBloge.Web\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+A:\.Net5\WeBloge\WeBloge.Web\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+A:\.Net5\WeBloge\WeBloge.Web\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+A:\.Net5\WeBloge\WeBloge.Web\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+A:\.Net5\WeBloge\WeBloge.Web\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+A:\.Net5\WeBloge\WeBloge.Web\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+A:\.Net5\WeBloge\WeBloge.Web\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+A:\.Net5\WeBloge\WeBloge.Web\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+A:\.Net5\WeBloge\WeBloge.Web\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+A:\.Net5\WeBloge\WeBloge.Web\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+A:\.Net5\WeBloge\WeBloge.Web\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+A:\.Net5\WeBloge\WeBloge.Web\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+A:\.Net5\WeBloge\WeBloge.Web\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+A:\.Net5\WeBloge\WeBloge.Web\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+A:\.Net5\WeBloge\WeBloge.Web\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+A:\.Net5\WeBloge\WeBloge.Web\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+A:\.Net5\WeBloge\WeBloge.Web\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+A:\.Net5\WeBloge\WeBloge.Web\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+A:\.Net5\WeBloge\WeBloge.Web\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+A:\.Net5\WeBloge\WeBloge.Web\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+A:\.Net5\WeBloge\WeBloge.Web\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+A:\.Net5\WeBloge\WeBloge.Web\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+A:\.Net5\WeBloge\WeBloge.Web\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+A:\.Net5\WeBloge\WeBloge.Web\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+A:\.Net5\WeBloge\WeBloge.Web\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+A:\.Net5\WeBloge\WeBloge.Web\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+A:\.Net5\WeBloge\WeBloge.Web\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+A:\.Net5\WeBloge\WeBloge.Web\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+A:\.Net5\WeBloge\WeBloge.Web\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+A:\.Net5\WeBloge\WeBloge.Web\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+A:\.Net5\WeBloge\WeBloge.Web\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+A:\.Net5\WeBloge\WeBloge.Web\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+A:\.Net5\WeBloge\WeBloge.Web\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+A:\.Net5\WeBloge\WeBloge.Web\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+A:\.Net5\WeBloge\WeBloge.Web\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+A:\.Net5\WeBloge\WeBloge.Web\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+A:\.Net5\WeBloge\WeBloge.Web\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+A:\.Net5\WeBloge\WeBloge.Web\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+A:\.Net5\WeBloge\WeBloge.Web\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+A:\.Net5\WeBloge\WeBloge.Web\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+A:\.Net5\WeBloge\WeBloge.Web\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+A:\.Net5\WeBloge\WeBloge.Web\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+A:\.Net5\WeBloge\WeBloge.Web\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+A:\.Net5\WeBloge\WeBloge.Web\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+A:\.Net5\WeBloge\WeBloge.Web\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+A:\.Net5\WeBloge\WeBloge.Web\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+A:\.Net5\WeBloge\WeBloge.Web\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+A:\.Net5\WeBloge\WeBloge.Web\bin\Debug\net5.0\WeBloge.DataLayer.dll
+A:\.Net5\WeBloge\WeBloge.Web\bin\Debug\net5.0\WeBloge.DataLayer.pdb
+A:\.Net5\WeBloge\WeBloge.Web\obj\Debug\net5.0\WeBloge.Web.csproj.AssemblyReference.cache
+A:\.Net5\WeBloge\WeBloge.Web\obj\Debug\net5.0\WeBloge.Web.GeneratedMSBuildEditorConfig.editorconfig
+A:\.Net5\WeBloge\WeBloge.Web\obj\Debug\net5.0\WeBloge.Web.AssemblyInfoInputs.cache
+A:\.Net5\WeBloge\WeBloge.Web\obj\Debug\net5.0\WeBloge.Web.AssemblyInfo.cs
+A:\.Net5\WeBloge\WeBloge.Web\obj\Debug\net5.0\WeBloge.Web.csproj.CoreCompileInputs.cache
+A:\.Net5\WeBloge\WeBloge.Web\obj\Debug\net5.0\WeBloge.Web.MvcApplicationPartsAssemblyInfo.cache
+A:\.Net5\WeBloge\WeBloge.Web\obj\Debug\net5.0\WeBloge.Web.RazorAssemblyInfo.cache
+A:\.Net5\WeBloge\WeBloge.Web\obj\Debug\net5.0\WeBloge.Web.RazorAssemblyInfo.cs
+A:\.Net5\WeBloge\WeBloge.Web\obj\Debug\net5.0\scopedcss\bundle\WeBloge.Web.styles.css
+A:\.Net5\WeBloge\WeBloge.Web\obj\Debug\net5.0\staticwebassets\WeBloge.Web.StaticWebAssets.Manifest.cache
+A:\.Net5\WeBloge\WeBloge.Web\obj\Debug\net5.0\staticwebassets\WeBloge.Web.StaticWebAssets.Pack.cache
+A:\.Net5\WeBloge\WeBloge.Web\obj\Debug\net5.0\staticwebassets\msbuild.WeBloge.Web.Microsoft.AspNetCore.StaticWebAssets.props
+A:\.Net5\WeBloge\WeBloge.Web\obj\Debug\net5.0\staticwebassets\msbuild.build.WeBloge.Web.props
+A:\.Net5\WeBloge\WeBloge.Web\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.WeBloge.Web.props
+A:\.Net5\WeBloge\WeBloge.Web\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.WeBloge.Web.props
+A:\.Net5\WeBloge\WeBloge.Web\obj\Debug\net5.0\WeBloge.Web.TagHelpers.input.cache
+A:\.Net5\WeBloge\WeBloge.Web\obj\Debug\net5.0\WeBloge.Web.TagHelpers.output.cache
+A:\.Net5\WeBloge\WeBloge.Web\obj\Debug\net5.0\WeBloge.Web.RazorCoreGenerate.cache
+A:\.Net5\WeBloge\WeBloge.Web\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+A:\.Net5\WeBloge\WeBloge.Web\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+A:\.Net5\WeBloge\WeBloge.Web\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+A:\.Net5\WeBloge\WeBloge.Web\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+A:\.Net5\WeBloge\WeBloge.Web\obj\Debug\net5.0\WeBloge.Web.RazorTargetAssemblyInfo.cache
+A:\.Net5\WeBloge\WeBloge.Web\obj\Debug\net5.0\WeBloge.Web.RazorTargetAssemblyInfo.cs
+A:\.Net5\WeBloge\WeBloge.Web\obj\Debug\net5.0\WeBloge.Web.Views.pdb
+A:\.Net5\WeBloge\WeBloge.Web\obj\Debug\net5.0\WeBloge.Web.csproj.CopyComplete
+A:\.Net5\WeBloge\WeBloge.Web\obj\Debug\net5.0\WeBloge.Web.dll
+A:\.Net5\WeBloge\WeBloge.Web\obj\Debug\net5.0\refint\WeBloge.Web.dll
+A:\.Net5\WeBloge\WeBloge.Web\obj\Debug\net5.0\WeBloge.Web.pdb
+A:\.Net5\WeBloge\WeBloge.Web\obj\Debug\net5.0\WeBloge.Web.genruntimeconfig.cache
+A:\.Net5\WeBloge\WeBloge.Web\obj\Debug\net5.0\ref\WeBloge.Web.dll
+A:\.Net5\WeBloge\WeBloge.Web\bin\Debug\net5.0\WeBloge.Application.dll
+A:\.Net5\WeBloge\WeBloge.Web\bin\Debug\net5.0\WeBloge.Domain.dll
+A:\.Net5\WeBloge\WeBloge.Web\bin\Debug\net5.0\WeBloge.Application.pdb
+A:\.Net5\WeBloge\WeBloge.Web\bin\Debug\net5.0\WeBloge.Domain.pdb
+A:\.Net5\WeBloge\WeBloge.Web\bin\Debug\net5.0\AngleSharp.dll
+A:\.Net5\WeBloge\WeBloge.Web\bin\Debug\net5.0\AngleSharp.Css.dll
+A:\.Net5\WeBloge\WeBloge.Web\bin\Debug\net5.0\HtmlSanitizer.dll
+A:\.Net5\WeBloge\WeBloge.Web\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+A:\.Net5\WeBloge\WeBloge.Web\bin\Debug\net5.0\System.Text.Encoding.CodePages.dll
+A:\.Net5\WeBloge\WeBloge.Web\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\System.Text.Encoding.CodePages.dll
+A:\.Net5\WeBloge\WeBloge.Web\obj\Debug\net5.0\Razor\Views\Account\Register.cshtml.g.cs
+A:\.Net5\WeBloge\WeBloge.Web\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+A:\.Net5\WeBloge\WeBloge.Web\obj\Debug\net5.0\Razor\Views\Shared\_FooterReference.cshtml.g.cs
+A:\.Net5\WeBloge\WeBloge.Web\obj\Debug\net5.0\Razor\Views\Shared\_HeaderReference.cshtml.g.cs
+A:\.Net5\WeBloge\WeBloge.Web\obj\Debug\net5.0\Razor\Views\Shared\_Header.cshtml.g.cs
+A:\.Net5\WeBloge\WeBloge.Web\obj\Debug\net5.0\Razor\Views\Shared\_Footer.cshtml.g.cs
+A:\.Net5\WeBloge\WeBloge.Web\obj\Debug\net5.0\Razor\Views\Account\Login.cshtml.g.cs
+A:\.Net5\WeBloge\WeBloge.Web\obj\Debug\net5.0\Razor\Views\Shared\_Notification.cshtml.g.cs
+A:\.Net5\WeBloge\WeBloge.Web\bin\Debug\net5.0\GoogleReCaptcha.V3.dll
+A:\.Net5\WeBloge\WeBloge.Web\obj\Debug\net5.0\Razor\Views\Shared\_CaptchaScripts.cshtml.g.cs
+A:\.Net5\WeBloge\WeBloge.Web\obj\Debug\net5.0\Razor\Views\Account\ForgotPassword.cshtml.g.cs
+A:\.Net5\WeBloge\WeBloge.Web\obj\Debug\net5.0\Razor\Views\Account\ResetPassword.cshtml.g.cs
+A:\.Net5\WeBloge\WeBloge.Web\obj\Debug\net5.0\Razor\Views\Shared\_PanelLayout.cshtml.g.cs
+A:\.Net5\WeBloge\WeBloge.Web\obj\Debug\net5.0\Razor\Views\UserPanel\EditProfile.cshtml.g.cs
+A:\.Net5\WeBloge\WeBloge.Web\bin\Debug\net5.0\Microsoft.AspNetCore.Http.Features.dll
+A:\.Net5\WeBloge\WeBloge.Web\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+A:\.Net5\WeBloge\WeBloge.Web\bin\Debug\net5.0\System.IO.Pipelines.dll
+A:\.Net5\WeBloge\WeBloge.Web\obj\Debug\net5.0\Razor\Views\UserPanel\ChangePassword.cshtml.g.cs
+A:\.Net5\WeBloge\WeBloge.Web\obj\Debug\net5.0\Razor\Views\Shared\_AdminLayout.cshtml.g.cs
+A:\.Net5\WeBloge\WeBloge.Web\obj\Debug\net5.0\Razor\Views\Admin\Writer.cshtml.g.cs
+A:\.Net5\WeBloge\WeBloge.Web\obj\Debug\net5.0\Razor\Views\Shared\Components\WriterProfile\WriterProfile.cshtml.g.cs
+A:\.Net5\WeBloge\WeBloge.Web\obj\Debug\net5.0\Razor\Views\WeBloge\WriterProfile.cshtml.g.cs
+A:\.Net5\WeBloge\WeBloge.Web\obj\Debug\net5.0\Razor\Views\Shared\Components\AdminSideBar\AdminSideBar.cshtml.g.cs
+A:\.Net5\WeBloge\WeBloge.Web\obj\Debug\net5.0\Razor\Views\Admin\Categories.cshtml.g.cs
+A:\.Net5\WeBloge\WeBloge.Web\obj\Debug\net5.0\Razor\Views\Admin\ShowAllCategories.cshtml.g.cs
+A:\.Net5\WeBloge\WeBloge.Web\obj\Debug\net5.0\Razor\Views\Admin\UpdateCategories.cshtml.g.cs
+A:\.Net5\WeBloge\WeBloge.Web\obj\Debug\net5.0\Razor\Views\Admin\DeleteCategories.cshtml.g.cs
+A:\.Net5\WeBloge\WeBloge.Web\obj\Debug\net5.0\Razor\Views\Admin\CreateWeBloge.cshtml.g.cs
+A:\.Net5\WeBloge\WeBloge.Web\obj\Debug\net5.0\Razor\Views\Admin\ShowAllWeBloge.cshtml.g.cs
+A:\.Net5\WeBloge\WeBloge.Web\obj\Debug\net5.0\Razor\Views\Admin\DeleteWeBloges.cshtml.g.cs
+A:\.Net5\WeBloge\WeBloge.Web\obj\Debug\net5.0\Razor\Views\Admin\UpdateWeBloges.cshtml.g.cs
+A:\.Net5\WeBloge\WeBloge.Web\obj\Debug\net5.0\Razor\Views\Admin\UpdateImg.cshtml.g.cs
+A:\.Net5\WeBloge\WeBloge.Web\obj\Debug\net5.0\Razor\Views\Shared\_pagination.cshtml.g.cs
+A:\.Net5\WeBloge\WeBloge.Web\obj\Debug\net5.0\Razor\Views\Shared\Components\ShowCategories\ShowCategories.cshtml.g.cs
+A:\.Net5\WeBloge\WeBloge.Web\obj\Debug\net5.0\Razor\Views\Admin\AddSocial.cshtml.g.cs
+A:\.Net5\WeBloge\WeBloge.Web\obj\Debug\net5.0\Razor\Views\Shared\Components\ShowSocial\ShowSocial.cshtml.g.cs
+A:\.Net5\WeBloge\WeBloge.Web\obj\Debug\net5.0\Razor\Views\Shared\Components\WeBloges\WeBloges.cshtml.g.cs
+A:\.Net5\WeBloge\WeBloge.Web\obj\Debug\net5.0\Razor\Views\WeBloge\WeBlogeDetail.cshtml.g.cs
+A:\.Net5\WeBloge\WeBloge.Web\obj\Debug\net5.0\Razor\Views\Shared\Components\WriterWeBlogeDetail\WriterWeBlogeDetail.cshtml.g.cs
+A:\.Net5\WeBloge\WeBloge.Web\obj\Debug\net5.0\Razor\Views\Shared\Components\LatestPosts\LatestPosts.cshtml.g.cs
+A:\.Net5\WeBloge\WeBloge.Web\obj\Debug\net5.0\Razor\Views\Shared\Components\WidgetCategories\WidgetCategories.cshtml.g.cs
+A:\.Net5\WeBloge\WeBloge.Web\obj\Debug\net5.0\Razor\Views\Shared\_CommentForm.cshtml.g.cs
+A:\.Net5\WeBloge\WeBloge.Web\obj\Debug\net5.0\Razor\Views\Shared\Components\WidgetComments\WidgetComments.cshtml.g.cs
+E:\.Net5\WeBloge\WeBloge.Web\bin\Debug\net5.0\appsettings.Development.json
+E:\.Net5\WeBloge\WeBloge.Web\bin\Debug\net5.0\appsettings.json
+E:\.Net5\WeBloge\WeBloge.Web\bin\Debug\net5.0\WeBloge.Web.exe
+E:\.Net5\WeBloge\WeBloge.Web\bin\Debug\net5.0\WeBloge.Web.deps.json
+E:\.Net5\WeBloge\WeBloge.Web\bin\Debug\net5.0\WeBloge.Web.runtimeconfig.json
+E:\.Net5\WeBloge\WeBloge.Web\bin\Debug\net5.0\WeBloge.Web.runtimeconfig.dev.json
+E:\.Net5\WeBloge\WeBloge.Web\bin\Debug\net5.0\WeBloge.Web.dll
+E:\.Net5\WeBloge\WeBloge.Web\bin\Debug\net5.0\WeBloge.Web.pdb
+E:\.Net5\WeBloge\WeBloge.Web\bin\Debug\net5.0\WeBloge.Web.Views.dll
+E:\.Net5\WeBloge\WeBloge.Web\bin\Debug\net5.0\WeBloge.Web.Views.pdb
+E:\.Net5\WeBloge\WeBloge.Web\bin\Debug\net5.0\AngleSharp.dll
+E:\.Net5\WeBloge\WeBloge.Web\bin\Debug\net5.0\AngleSharp.Css.dll
+E:\.Net5\WeBloge\WeBloge.Web\bin\Debug\net5.0\GoogleReCaptcha.V3.dll
+E:\.Net5\WeBloge\WeBloge.Web\bin\Debug\net5.0\HtmlSanitizer.dll
+E:\.Net5\WeBloge\WeBloge.Web\bin\Debug\net5.0\Humanizer.dll
+E:\.Net5\WeBloge\WeBloge.Web\bin\Debug\net5.0\Microsoft.AspNetCore.Http.Features.dll
+E:\.Net5\WeBloge\WeBloge.Web\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+E:\.Net5\WeBloge\WeBloge.Web\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\.Net5\WeBloge\WeBloge.Web\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+E:\.Net5\WeBloge\WeBloge.Web\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\.Net5\WeBloge\WeBloge.Web\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\.Net5\WeBloge\WeBloge.Web\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+E:\.Net5\WeBloge\WeBloge.Web\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\.Net5\WeBloge\WeBloge.Web\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+E:\.Net5\WeBloge\WeBloge.Web\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+E:\.Net5\WeBloge\WeBloge.Web\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\.Net5\WeBloge\WeBloge.Web\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\.Net5\WeBloge\WeBloge.Web\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\.Net5\WeBloge\WeBloge.Web\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\.Net5\WeBloge\WeBloge.Web\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+E:\.Net5\WeBloge\WeBloge.Web\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+E:\.Net5\WeBloge\WeBloge.Web\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+E:\.Net5\WeBloge\WeBloge.Web\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\.Net5\WeBloge\WeBloge.Web\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+E:\.Net5\WeBloge\WeBloge.Web\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+E:\.Net5\WeBloge\WeBloge.Web\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\.Net5\WeBloge\WeBloge.Web\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+E:\.Net5\WeBloge\WeBloge.Web\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\.Net5\WeBloge\WeBloge.Web\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+E:\.Net5\WeBloge\WeBloge.Web\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\.Net5\WeBloge\WeBloge.Web\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+E:\.Net5\WeBloge\WeBloge.Web\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\.Net5\WeBloge\WeBloge.Web\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\.Net5\WeBloge\WeBloge.Web\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\.Net5\WeBloge\WeBloge.Web\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\.Net5\WeBloge\WeBloge.Web\bin\Debug\net5.0\Newtonsoft.Json.dll
+E:\.Net5\WeBloge\WeBloge.Web\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+E:\.Net5\WeBloge\WeBloge.Web\bin\Debug\net5.0\System.Composition.Convention.dll
+E:\.Net5\WeBloge\WeBloge.Web\bin\Debug\net5.0\System.Composition.Hosting.dll
+E:\.Net5\WeBloge\WeBloge.Web\bin\Debug\net5.0\System.Composition.Runtime.dll
+E:\.Net5\WeBloge\WeBloge.Web\bin\Debug\net5.0\System.Composition.TypedParts.dll
+E:\.Net5\WeBloge\WeBloge.Web\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+E:\.Net5\WeBloge\WeBloge.Web\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+E:\.Net5\WeBloge\WeBloge.Web\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+E:\.Net5\WeBloge\WeBloge.Web\bin\Debug\net5.0\System.IO.Pipelines.dll
+E:\.Net5\WeBloge\WeBloge.Web\bin\Debug\net5.0\System.Runtime.Caching.dll
+E:\.Net5\WeBloge\WeBloge.Web\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+E:\.Net5\WeBloge\WeBloge.Web\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+E:\.Net5\WeBloge\WeBloge.Web\bin\Debug\net5.0\System.Text.Encoding.CodePages.dll
+E:\.Net5\WeBloge\WeBloge.Web\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\.Net5\WeBloge\WeBloge.Web\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\.Net5\WeBloge\WeBloge.Web\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\.Net5\WeBloge\WeBloge.Web\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\.Net5\WeBloge\WeBloge.Web\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\.Net5\WeBloge\WeBloge.Web\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\.Net5\WeBloge\WeBloge.Web\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\.Net5\WeBloge\WeBloge.Web\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\.Net5\WeBloge\WeBloge.Web\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\.Net5\WeBloge\WeBloge.Web\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\.Net5\WeBloge\WeBloge.Web\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\.Net5\WeBloge\WeBloge.Web\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\.Net5\WeBloge\WeBloge.Web\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\.Net5\WeBloge\WeBloge.Web\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\.Net5\WeBloge\WeBloge.Web\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\.Net5\WeBloge\WeBloge.Web\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\.Net5\WeBloge\WeBloge.Web\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\.Net5\WeBloge\WeBloge.Web\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\.Net5\WeBloge\WeBloge.Web\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\.Net5\WeBloge\WeBloge.Web\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\.Net5\WeBloge\WeBloge.Web\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\.Net5\WeBloge\WeBloge.Web\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\.Net5\WeBloge\WeBloge.Web\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\.Net5\WeBloge\WeBloge.Web\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\.Net5\WeBloge\WeBloge.Web\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\.Net5\WeBloge\WeBloge.Web\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\.Net5\WeBloge\WeBloge.Web\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\.Net5\WeBloge\WeBloge.Web\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\.Net5\WeBloge\WeBloge.Web\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\.Net5\WeBloge\WeBloge.Web\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\.Net5\WeBloge\WeBloge.Web\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\.Net5\WeBloge\WeBloge.Web\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\.Net5\WeBloge\WeBloge.Web\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\.Net5\WeBloge\WeBloge.Web\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\.Net5\WeBloge\WeBloge.Web\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\.Net5\WeBloge\WeBloge.Web\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\.Net5\WeBloge\WeBloge.Web\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\.Net5\WeBloge\WeBloge.Web\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\.Net5\WeBloge\WeBloge.Web\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\.Net5\WeBloge\WeBloge.Web\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\.Net5\WeBloge\WeBloge.Web\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\.Net5\WeBloge\WeBloge.Web\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\.Net5\WeBloge\WeBloge.Web\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\.Net5\WeBloge\WeBloge.Web\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\.Net5\WeBloge\WeBloge.Web\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\.Net5\WeBloge\WeBloge.Web\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\.Net5\WeBloge\WeBloge.Web\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\.Net5\WeBloge\WeBloge.Web\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\.Net5\WeBloge\WeBloge.Web\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\.Net5\WeBloge\WeBloge.Web\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\.Net5\WeBloge\WeBloge.Web\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\.Net5\WeBloge\WeBloge.Web\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\.Net5\WeBloge\WeBloge.Web\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\.Net5\WeBloge\WeBloge.Web\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\.Net5\WeBloge\WeBloge.Web\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\.Net5\WeBloge\WeBloge.Web\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\.Net5\WeBloge\WeBloge.Web\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\.Net5\WeBloge\WeBloge.Web\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\.Net5\WeBloge\WeBloge.Web\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\.Net5\WeBloge\WeBloge.Web\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\.Net5\WeBloge\WeBloge.Web\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\.Net5\WeBloge\WeBloge.Web\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\.Net5\WeBloge\WeBloge.Web\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+E:\.Net5\WeBloge\WeBloge.Web\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+E:\.Net5\WeBloge\WeBloge.Web\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\.Net5\WeBloge\WeBloge.Web\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\.Net5\WeBloge\WeBloge.Web\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\System.Text.Encoding.CodePages.dll
+E:\.Net5\WeBloge\WeBloge.Web\bin\Debug\net5.0\WeBloge.Application.dll
+E:\.Net5\WeBloge\WeBloge.Web\bin\Debug\net5.0\WeBloge.DataLayer.dll
+E:\.Net5\WeBloge\WeBloge.Web\bin\Debug\net5.0\WeBloge.Domain.dll
+E:\.Net5\WeBloge\WeBloge.Web\bin\Debug\net5.0\WeBloge.Application.pdb
+E:\.Net5\WeBloge\WeBloge.Web\bin\Debug\net5.0\WeBloge.DataLayer.pdb
+E:\.Net5\WeBloge\WeBloge.Web\bin\Debug\net5.0\WeBloge.Domain.pdb
+E:\.Net5\WeBloge\WeBloge.Web\obj\Debug\net5.0\WeBloge.Web.csproj.AssemblyReference.cache
+E:\.Net5\WeBloge\WeBloge.Web\obj\Debug\net5.0\WeBloge.Web.GeneratedMSBuildEditorConfig.editorconfig
+E:\.Net5\WeBloge\WeBloge.Web\obj\Debug\net5.0\WeBloge.Web.AssemblyInfoInputs.cache
+E:\.Net5\WeBloge\WeBloge.Web\obj\Debug\net5.0\WeBloge.Web.AssemblyInfo.cs
+E:\.Net5\WeBloge\WeBloge.Web\obj\Debug\net5.0\WeBloge.Web.csproj.CoreCompileInputs.cache
+E:\.Net5\WeBloge\WeBloge.Web\obj\Debug\net5.0\WeBloge.Web.MvcApplicationPartsAssemblyInfo.cache
+E:\.Net5\WeBloge\WeBloge.Web\obj\Debug\net5.0\WeBloge.Web.RazorAssemblyInfo.cache
+E:\.Net5\WeBloge\WeBloge.Web\obj\Debug\net5.0\WeBloge.Web.RazorAssemblyInfo.cs
+E:\.Net5\WeBloge\WeBloge.Web\obj\Debug\net5.0\scopedcss\bundle\WeBloge.Web.styles.css
+E:\.Net5\WeBloge\WeBloge.Web\obj\Debug\net5.0\staticwebassets\WeBloge.Web.StaticWebAssets.Manifest.cache
+E:\.Net5\WeBloge\WeBloge.Web\obj\Debug\net5.0\staticwebassets\WeBloge.Web.StaticWebAssets.Pack.cache
+E:\.Net5\WeBloge\WeBloge.Web\obj\Debug\net5.0\staticwebassets\msbuild.WeBloge.Web.Microsoft.AspNetCore.StaticWebAssets.props
+E:\.Net5\WeBloge\WeBloge.Web\obj\Debug\net5.0\staticwebassets\msbuild.build.WeBloge.Web.props
+E:\.Net5\WeBloge\WeBloge.Web\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.WeBloge.Web.props
+E:\.Net5\WeBloge\WeBloge.Web\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.WeBloge.Web.props
+E:\.Net5\WeBloge\WeBloge.Web\obj\Debug\net5.0\WeBloge.Web.TagHelpers.input.cache
+E:\.Net5\WeBloge\WeBloge.Web\obj\Debug\net5.0\WeBloge.Web.TagHelpers.output.cache
+E:\.Net5\WeBloge\WeBloge.Web\obj\Debug\net5.0\WeBloge.Web.RazorCoreGenerate.cache
+E:\.Net5\WeBloge\WeBloge.Web\obj\Debug\net5.0\Razor\Views\Account\ForgotPassword.cshtml.g.cs
+E:\.Net5\WeBloge\WeBloge.Web\obj\Debug\net5.0\Razor\Views\Account\Login.cshtml.g.cs
+E:\.Net5\WeBloge\WeBloge.Web\obj\Debug\net5.0\Razor\Views\Account\Register.cshtml.g.cs
+E:\.Net5\WeBloge\WeBloge.Web\obj\Debug\net5.0\Razor\Views\Account\ResetPassword.cshtml.g.cs
+E:\.Net5\WeBloge\WeBloge.Web\obj\Debug\net5.0\Razor\Views\Admin\AddSocial.cshtml.g.cs
+E:\.Net5\WeBloge\WeBloge.Web\obj\Debug\net5.0\Razor\Views\Admin\Categories.cshtml.g.cs
+E:\.Net5\WeBloge\WeBloge.Web\obj\Debug\net5.0\Razor\Views\Admin\CreateWeBloge.cshtml.g.cs
+E:\.Net5\WeBloge\WeBloge.Web\obj\Debug\net5.0\Razor\Views\Admin\DeleteCategories.cshtml.g.cs
+E:\.Net5\WeBloge\WeBloge.Web\obj\Debug\net5.0\Razor\Views\Admin\DeleteWeBloges.cshtml.g.cs
+E:\.Net5\WeBloge\WeBloge.Web\obj\Debug\net5.0\Razor\Views\Admin\ShowAllCategories.cshtml.g.cs
+E:\.Net5\WeBloge\WeBloge.Web\obj\Debug\net5.0\Razor\Views\Admin\ShowAllWeBloge.cshtml.g.cs
+E:\.Net5\WeBloge\WeBloge.Web\obj\Debug\net5.0\Razor\Views\Admin\UpdateCategories.cshtml.g.cs
+E:\.Net5\WeBloge\WeBloge.Web\obj\Debug\net5.0\Razor\Views\Admin\UpdateImg.cshtml.g.cs
+E:\.Net5\WeBloge\WeBloge.Web\obj\Debug\net5.0\Razor\Views\Admin\UpdateWeBloges.cshtml.g.cs
+E:\.Net5\WeBloge\WeBloge.Web\obj\Debug\net5.0\Razor\Views\Admin\Writer.cshtml.g.cs
+E:\.Net5\WeBloge\WeBloge.Web\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+E:\.Net5\WeBloge\WeBloge.Web\obj\Debug\net5.0\Razor\Views\Shared\Components\AdminButton\AdminButton.cshtml.g.cs
+E:\.Net5\WeBloge\WeBloge.Web\obj\Debug\net5.0\Razor\Views\Shared\Components\AdminSideBar\AdminSideBar.cshtml.g.cs
+E:\.Net5\WeBloge\WeBloge.Web\obj\Debug\net5.0\Razor\Views\Shared\Components\LatestPosts\LatestPosts.cshtml.g.cs
+E:\.Net5\WeBloge\WeBloge.Web\obj\Debug\net5.0\Razor\Views\Shared\Components\ShowCategories\ShowCategories.cshtml.g.cs
+E:\.Net5\WeBloge\WeBloge.Web\obj\Debug\net5.0\Razor\Views\Shared\Components\ShowSocial\ShowSocial.cshtml.g.cs
+E:\.Net5\WeBloge\WeBloge.Web\obj\Debug\net5.0\Razor\Views\Shared\Components\WeBloges\WeBloges.cshtml.g.cs
+E:\.Net5\WeBloge\WeBloge.Web\obj\Debug\net5.0\Razor\Views\Shared\Components\WidgetCategories\WidgetCategories.cshtml.g.cs
+E:\.Net5\WeBloge\WeBloge.Web\obj\Debug\net5.0\Razor\Views\Shared\Components\WidgetComments\WidgetComments.cshtml.g.cs
+E:\.Net5\WeBloge\WeBloge.Web\obj\Debug\net5.0\Razor\Views\Shared\Components\WriterProfile\WriterProfile.cshtml.g.cs
+E:\.Net5\WeBloge\WeBloge.Web\obj\Debug\net5.0\Razor\Views\Shared\Components\WriterWeBlogeDetail\WriterWeBlogeDetail.cshtml.g.cs
+E:\.Net5\WeBloge\WeBloge.Web\obj\Debug\net5.0\Razor\Views\Shared\_AdminLayout.cshtml.g.cs
+E:\.Net5\WeBloge\WeBloge.Web\obj\Debug\net5.0\Razor\Views\Shared\_CaptchaScripts.cshtml.g.cs
+E:\.Net5\WeBloge\WeBloge.Web\obj\Debug\net5.0\Razor\Views\Shared\_CommentForm.cshtml.g.cs
+E:\.Net5\WeBloge\WeBloge.Web\obj\Debug\net5.0\Razor\Views\Shared\_Footer.cshtml.g.cs
+E:\.Net5\WeBloge\WeBloge.Web\obj\Debug\net5.0\Razor\Views\Shared\_FooterReference.cshtml.g.cs
+E:\.Net5\WeBloge\WeBloge.Web\obj\Debug\net5.0\Razor\Views\Shared\_Header.cshtml.g.cs
+E:\.Net5\WeBloge\WeBloge.Web\obj\Debug\net5.0\Razor\Views\Shared\_HeaderReference.cshtml.g.cs
+E:\.Net5\WeBloge\WeBloge.Web\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+E:\.Net5\WeBloge\WeBloge.Web\obj\Debug\net5.0\Razor\Views\Shared\_Notification.cshtml.g.cs
+E:\.Net5\WeBloge\WeBloge.Web\obj\Debug\net5.0\Razor\Views\Shared\_pagination.cshtml.g.cs
+E:\.Net5\WeBloge\WeBloge.Web\obj\Debug\net5.0\Razor\Views\Shared\_PanelLayout.cshtml.g.cs
+E:\.Net5\WeBloge\WeBloge.Web\obj\Debug\net5.0\Razor\Views\UserPanel\ChangePassword.cshtml.g.cs
+E:\.Net5\WeBloge\WeBloge.Web\obj\Debug\net5.0\Razor\Views\UserPanel\EditProfile.cshtml.g.cs
+E:\.Net5\WeBloge\WeBloge.Web\obj\Debug\net5.0\Razor\Views\WeBloge\WeBlogeDetail.cshtml.g.cs
+E:\.Net5\WeBloge\WeBloge.Web\obj\Debug\net5.0\Razor\Views\WeBloge\WriterProfile.cshtml.g.cs
+E:\.Net5\WeBloge\WeBloge.Web\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+E:\.Net5\WeBloge\WeBloge.Web\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+E:\.Net5\WeBloge\WeBloge.Web\obj\Debug\net5.0\WeBloge.Web.RazorTargetAssemblyInfo.cache
+E:\.Net5\WeBloge\WeBloge.Web\obj\Debug\net5.0\WeBloge.Web.RazorTargetAssemblyInfo.cs
+E:\.Net5\WeBloge\WeBloge.Web\obj\Debug\net5.0\WeBloge.Web.Views.pdb
+E:\.Net5\WeBloge\WeBloge.Web\obj\Debug\net5.0\WeBloge.Web.csproj.CopyComplete
+E:\.Net5\WeBloge\WeBloge.Web\obj\Debug\net5.0\WeBloge.Web.dll
+E:\.Net5\WeBloge\WeBloge.Web\obj\Debug\net5.0\refint\WeBloge.Web.dll
+E:\.Net5\WeBloge\WeBloge.Web\obj\Debug\net5.0\WeBloge.Web.pdb
+E:\.Net5\WeBloge\WeBloge.Web\obj\Debug\net5.0\WeBloge.Web.genruntimeconfig.cache
+E:\.Net5\WeBloge\WeBloge.Web\obj\Debug\net5.0\ref\WeBloge.Web.dll
+A:\.Net5\WeBloge\WeBloge.Web\obj\Debug\net5.0\Razor\Views\WeBloge\ContactUs.cshtml.g.cs
+A:\.Net5\WeBloge\WeBloge.Web\obj\Debug\net5.0\Razor\Views\Admin\ShowAllContactUs.cshtml.g.cs
+A:\.Net5\WeBloge\WeBloge.Web\obj\Debug\net5.0\Razor\Views\Admin\ContactUsDetail.cshtml.g.cs
+A:\.Net5\WeBloge\WeBloge.Web\obj\Debug\net5.0\Razor\Views\Home\NotFoundPage.cshtml.g.cs
+A:\ASP.NET CORE\WeBloge\WeBloge.Web\bin\Debug\net5.0\appsettings.Development.json
+A:\ASP.NET CORE\WeBloge\WeBloge.Web\bin\Debug\net5.0\appsettings.json
+A:\ASP.NET CORE\WeBloge\WeBloge.Web\bin\Debug\net5.0\WeBloge.Web.exe
+A:\ASP.NET CORE\WeBloge\WeBloge.Web\bin\Debug\net5.0\WeBloge.Web.deps.json
+A:\ASP.NET CORE\WeBloge\WeBloge.Web\bin\Debug\net5.0\WeBloge.Web.runtimeconfig.json
+A:\ASP.NET CORE\WeBloge\WeBloge.Web\bin\Debug\net5.0\WeBloge.Web.runtimeconfig.dev.json
+A:\ASP.NET CORE\WeBloge\WeBloge.Web\bin\Debug\net5.0\WeBloge.Web.dll
+A:\ASP.NET CORE\WeBloge\WeBloge.Web\bin\Debug\net5.0\WeBloge.Web.pdb
+A:\ASP.NET CORE\WeBloge\WeBloge.Web\bin\Debug\net5.0\WeBloge.Web.Views.dll
+A:\ASP.NET CORE\WeBloge\WeBloge.Web\bin\Debug\net5.0\WeBloge.Web.Views.pdb
+A:\ASP.NET CORE\WeBloge\WeBloge.Web\bin\Debug\net5.0\AngleSharp.dll
+A:\ASP.NET CORE\WeBloge\WeBloge.Web\bin\Debug\net5.0\AngleSharp.Css.dll
+A:\ASP.NET CORE\WeBloge\WeBloge.Web\bin\Debug\net5.0\GoogleReCaptcha.V3.dll
+A:\ASP.NET CORE\WeBloge\WeBloge.Web\bin\Debug\net5.0\HtmlSanitizer.dll
+A:\ASP.NET CORE\WeBloge\WeBloge.Web\bin\Debug\net5.0\Humanizer.dll
+A:\ASP.NET CORE\WeBloge\WeBloge.Web\bin\Debug\net5.0\Microsoft.AspNetCore.Http.Features.dll
+A:\ASP.NET CORE\WeBloge\WeBloge.Web\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+A:\ASP.NET CORE\WeBloge\WeBloge.Web\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+A:\ASP.NET CORE\WeBloge\WeBloge.Web\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+A:\ASP.NET CORE\WeBloge\WeBloge.Web\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+A:\ASP.NET CORE\WeBloge\WeBloge.Web\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+A:\ASP.NET CORE\WeBloge\WeBloge.Web\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+A:\ASP.NET CORE\WeBloge\WeBloge.Web\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+A:\ASP.NET CORE\WeBloge\WeBloge.Web\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+A:\ASP.NET CORE\WeBloge\WeBloge.Web\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+A:\ASP.NET CORE\WeBloge\WeBloge.Web\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+A:\ASP.NET CORE\WeBloge\WeBloge.Web\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+A:\ASP.NET CORE\WeBloge\WeBloge.Web\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+A:\ASP.NET CORE\WeBloge\WeBloge.Web\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+A:\ASP.NET CORE\WeBloge\WeBloge.Web\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+A:\ASP.NET CORE\WeBloge\WeBloge.Web\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+A:\ASP.NET CORE\WeBloge\WeBloge.Web\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+A:\ASP.NET CORE\WeBloge\WeBloge.Web\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+A:\ASP.NET CORE\WeBloge\WeBloge.Web\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+A:\ASP.NET CORE\WeBloge\WeBloge.Web\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+A:\ASP.NET CORE\WeBloge\WeBloge.Web\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+A:\ASP.NET CORE\WeBloge\WeBloge.Web\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+A:\ASP.NET CORE\WeBloge\WeBloge.Web\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+A:\ASP.NET CORE\WeBloge\WeBloge.Web\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+A:\ASP.NET CORE\WeBloge\WeBloge.Web\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+A:\ASP.NET CORE\WeBloge\WeBloge.Web\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+A:\ASP.NET CORE\WeBloge\WeBloge.Web\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+A:\ASP.NET CORE\WeBloge\WeBloge.Web\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+A:\ASP.NET CORE\WeBloge\WeBloge.Web\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+A:\ASP.NET CORE\WeBloge\WeBloge.Web\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+A:\ASP.NET CORE\WeBloge\WeBloge.Web\bin\Debug\net5.0\Newtonsoft.Json.dll
+A:\ASP.NET CORE\WeBloge\WeBloge.Web\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+A:\ASP.NET CORE\WeBloge\WeBloge.Web\bin\Debug\net5.0\System.Composition.Convention.dll
+A:\ASP.NET CORE\WeBloge\WeBloge.Web\bin\Debug\net5.0\System.Composition.Hosting.dll
+A:\ASP.NET CORE\WeBloge\WeBloge.Web\bin\Debug\net5.0\System.Composition.Runtime.dll
+A:\ASP.NET CORE\WeBloge\WeBloge.Web\bin\Debug\net5.0\System.Composition.TypedParts.dll
+A:\ASP.NET CORE\WeBloge\WeBloge.Web\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+A:\ASP.NET CORE\WeBloge\WeBloge.Web\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+A:\ASP.NET CORE\WeBloge\WeBloge.Web\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+A:\ASP.NET CORE\WeBloge\WeBloge.Web\bin\Debug\net5.0\System.IO.Pipelines.dll
+A:\ASP.NET CORE\WeBloge\WeBloge.Web\bin\Debug\net5.0\System.Runtime.Caching.dll
+A:\ASP.NET CORE\WeBloge\WeBloge.Web\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+A:\ASP.NET CORE\WeBloge\WeBloge.Web\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+A:\ASP.NET CORE\WeBloge\WeBloge.Web\bin\Debug\net5.0\System.Text.Encoding.CodePages.dll
+A:\ASP.NET CORE\WeBloge\WeBloge.Web\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+A:\ASP.NET CORE\WeBloge\WeBloge.Web\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+A:\ASP.NET CORE\WeBloge\WeBloge.Web\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+A:\ASP.NET CORE\WeBloge\WeBloge.Web\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+A:\ASP.NET CORE\WeBloge\WeBloge.Web\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+A:\ASP.NET CORE\WeBloge\WeBloge.Web\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+A:\ASP.NET CORE\WeBloge\WeBloge.Web\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+A:\ASP.NET CORE\WeBloge\WeBloge.Web\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+A:\ASP.NET CORE\WeBloge\WeBloge.Web\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+A:\ASP.NET CORE\WeBloge\WeBloge.Web\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+A:\ASP.NET CORE\WeBloge\WeBloge.Web\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+A:\ASP.NET CORE\WeBloge\WeBloge.Web\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+A:\ASP.NET CORE\WeBloge\WeBloge.Web\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+A:\ASP.NET CORE\WeBloge\WeBloge.Web\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+A:\ASP.NET CORE\WeBloge\WeBloge.Web\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+A:\ASP.NET CORE\WeBloge\WeBloge.Web\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+A:\ASP.NET CORE\WeBloge\WeBloge.Web\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+A:\ASP.NET CORE\WeBloge\WeBloge.Web\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+A:\ASP.NET CORE\WeBloge\WeBloge.Web\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+A:\ASP.NET CORE\WeBloge\WeBloge.Web\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+A:\ASP.NET CORE\WeBloge\WeBloge.Web\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+A:\ASP.NET CORE\WeBloge\WeBloge.Web\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+A:\ASP.NET CORE\WeBloge\WeBloge.Web\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+A:\ASP.NET CORE\WeBloge\WeBloge.Web\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+A:\ASP.NET CORE\WeBloge\WeBloge.Web\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+A:\ASP.NET CORE\WeBloge\WeBloge.Web\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+A:\ASP.NET CORE\WeBloge\WeBloge.Web\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+A:\ASP.NET CORE\WeBloge\WeBloge.Web\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+A:\ASP.NET CORE\WeBloge\WeBloge.Web\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+A:\ASP.NET CORE\WeBloge\WeBloge.Web\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+A:\ASP.NET CORE\WeBloge\WeBloge.Web\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+A:\ASP.NET CORE\WeBloge\WeBloge.Web\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+A:\ASP.NET CORE\WeBloge\WeBloge.Web\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+A:\ASP.NET CORE\WeBloge\WeBloge.Web\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+A:\ASP.NET CORE\WeBloge\WeBloge.Web\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+A:\ASP.NET CORE\WeBloge\WeBloge.Web\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+A:\ASP.NET CORE\WeBloge\WeBloge.Web\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+A:\ASP.NET CORE\WeBloge\WeBloge.Web\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+A:\ASP.NET CORE\WeBloge\WeBloge.Web\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+A:\ASP.NET CORE\WeBloge\WeBloge.Web\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+A:\ASP.NET CORE\WeBloge\WeBloge.Web\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+A:\ASP.NET CORE\WeBloge\WeBloge.Web\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+A:\ASP.NET CORE\WeBloge\WeBloge.Web\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+A:\ASP.NET CORE\WeBloge\WeBloge.Web\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+A:\ASP.NET CORE\WeBloge\WeBloge.Web\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+A:\ASP.NET CORE\WeBloge\WeBloge.Web\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+A:\ASP.NET CORE\WeBloge\WeBloge.Web\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+A:\ASP.NET CORE\WeBloge\WeBloge.Web\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+A:\ASP.NET CORE\WeBloge\WeBloge.Web\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+A:\ASP.NET CORE\WeBloge\WeBloge.Web\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+A:\ASP.NET CORE\WeBloge\WeBloge.Web\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+A:\ASP.NET CORE\WeBloge\WeBloge.Web\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+A:\ASP.NET CORE\WeBloge\WeBloge.Web\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+A:\ASP.NET CORE\WeBloge\WeBloge.Web\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+A:\ASP.NET CORE\WeBloge\WeBloge.Web\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+A:\ASP.NET CORE\WeBloge\WeBloge.Web\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+A:\ASP.NET CORE\WeBloge\WeBloge.Web\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+A:\ASP.NET CORE\WeBloge\WeBloge.Web\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+A:\ASP.NET CORE\WeBloge\WeBloge.Web\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+A:\ASP.NET CORE\WeBloge\WeBloge.Web\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+A:\ASP.NET CORE\WeBloge\WeBloge.Web\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+A:\ASP.NET CORE\WeBloge\WeBloge.Web\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+A:\ASP.NET CORE\WeBloge\WeBloge.Web\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+A:\ASP.NET CORE\WeBloge\WeBloge.Web\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+A:\ASP.NET CORE\WeBloge\WeBloge.Web\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+A:\ASP.NET CORE\WeBloge\WeBloge.Web\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+A:\ASP.NET CORE\WeBloge\WeBloge.Web\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\System.Text.Encoding.CodePages.dll
+A:\ASP.NET CORE\WeBloge\WeBloge.Web\bin\Debug\net5.0\WeBloge.Application.dll
+A:\ASP.NET CORE\WeBloge\WeBloge.Web\bin\Debug\net5.0\WeBloge.DataLayer.dll
+A:\ASP.NET CORE\WeBloge\WeBloge.Web\bin\Debug\net5.0\WeBloge.Domain.dll
+A:\ASP.NET CORE\WeBloge\WeBloge.Web\bin\Debug\net5.0\WeBloge.Application.pdb
+A:\ASP.NET CORE\WeBloge\WeBloge.Web\bin\Debug\net5.0\WeBloge.DataLayer.pdb
+A:\ASP.NET CORE\WeBloge\WeBloge.Web\bin\Debug\net5.0\WeBloge.Domain.pdb
+A:\ASP.NET CORE\WeBloge\WeBloge.Web\obj\Debug\net5.0\WeBloge.Web.csproj.AssemblyReference.cache
+A:\ASP.NET CORE\WeBloge\WeBloge.Web\obj\Debug\net5.0\WeBloge.Web.GeneratedMSBuildEditorConfig.editorconfig
+A:\ASP.NET CORE\WeBloge\WeBloge.Web\obj\Debug\net5.0\WeBloge.Web.AssemblyInfoInputs.cache
+A:\ASP.NET CORE\WeBloge\WeBloge.Web\obj\Debug\net5.0\WeBloge.Web.AssemblyInfo.cs
+A:\ASP.NET CORE\WeBloge\WeBloge.Web\obj\Debug\net5.0\WeBloge.Web.csproj.CoreCompileInputs.cache
+A:\ASP.NET CORE\WeBloge\WeBloge.Web\obj\Debug\net5.0\WeBloge.Web.MvcApplicationPartsAssemblyInfo.cache
+A:\ASP.NET CORE\WeBloge\WeBloge.Web\obj\Debug\net5.0\WeBloge.Web.RazorAssemblyInfo.cache
+A:\ASP.NET CORE\WeBloge\WeBloge.Web\obj\Debug\net5.0\WeBloge.Web.RazorAssemblyInfo.cs
+A:\ASP.NET CORE\WeBloge\WeBloge.Web\obj\Debug\net5.0\scopedcss\bundle\WeBloge.Web.styles.css
+A:\ASP.NET CORE\WeBloge\WeBloge.Web\obj\Debug\net5.0\staticwebassets\WeBloge.Web.StaticWebAssets.Manifest.cache
+A:\ASP.NET CORE\WeBloge\WeBloge.Web\obj\Debug\net5.0\staticwebassets\WeBloge.Web.StaticWebAssets.Pack.cache
+A:\ASP.NET CORE\WeBloge\WeBloge.Web\obj\Debug\net5.0\staticwebassets\msbuild.WeBloge.Web.Microsoft.AspNetCore.StaticWebAssets.props
+A:\ASP.NET CORE\WeBloge\WeBloge.Web\obj\Debug\net5.0\staticwebassets\msbuild.build.WeBloge.Web.props
+A:\ASP.NET CORE\WeBloge\WeBloge.Web\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.WeBloge.Web.props
+A:\ASP.NET CORE\WeBloge\WeBloge.Web\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.WeBloge.Web.props
+A:\ASP.NET CORE\WeBloge\WeBloge.Web\obj\Debug\net5.0\WeBloge.Web.TagHelpers.input.cache
+A:\ASP.NET CORE\WeBloge\WeBloge.Web\obj\Debug\net5.0\WeBloge.Web.TagHelpers.output.cache
+A:\ASP.NET CORE\WeBloge\WeBloge.Web\obj\Debug\net5.0\WeBloge.Web.RazorCoreGenerate.cache
+A:\ASP.NET CORE\WeBloge\WeBloge.Web\obj\Debug\net5.0\Razor\Views\Account\ForgotPassword.cshtml.g.cs
+A:\ASP.NET CORE\WeBloge\WeBloge.Web\obj\Debug\net5.0\Razor\Views\Account\Login.cshtml.g.cs
+A:\ASP.NET CORE\WeBloge\WeBloge.Web\obj\Debug\net5.0\Razor\Views\Account\Register.cshtml.g.cs
+A:\ASP.NET CORE\WeBloge\WeBloge.Web\obj\Debug\net5.0\Razor\Views\Account\ResetPassword.cshtml.g.cs
+A:\ASP.NET CORE\WeBloge\WeBloge.Web\obj\Debug\net5.0\Razor\Views\Admin\AddSocial.cshtml.g.cs
+A:\ASP.NET CORE\WeBloge\WeBloge.Web\obj\Debug\net5.0\Razor\Views\Admin\Categories.cshtml.g.cs
+A:\ASP.NET CORE\WeBloge\WeBloge.Web\obj\Debug\net5.0\Razor\Views\Admin\ContactUsDetail.cshtml.g.cs
+A:\ASP.NET CORE\WeBloge\WeBloge.Web\obj\Debug\net5.0\Razor\Views\Admin\CreateWeBloge.cshtml.g.cs
+A:\ASP.NET CORE\WeBloge\WeBloge.Web\obj\Debug\net5.0\Razor\Views\Admin\DeleteCategories.cshtml.g.cs
+A:\ASP.NET CORE\WeBloge\WeBloge.Web\obj\Debug\net5.0\Razor\Views\Admin\DeleteWeBloges.cshtml.g.cs
+A:\ASP.NET CORE\WeBloge\WeBloge.Web\obj\Debug\net5.0\Razor\Views\Admin\ShowAllCategories.cshtml.g.cs
+A:\ASP.NET CORE\WeBloge\WeBloge.Web\obj\Debug\net5.0\Razor\Views\Admin\ShowAllContactUs.cshtml.g.cs
+A:\ASP.NET CORE\WeBloge\WeBloge.Web\obj\Debug\net5.0\Razor\Views\Admin\ShowAllWeBloge.cshtml.g.cs
+A:\ASP.NET CORE\WeBloge\WeBloge.Web\obj\Debug\net5.0\Razor\Views\Admin\UpdateCategories.cshtml.g.cs
+A:\ASP.NET CORE\WeBloge\WeBloge.Web\obj\Debug\net5.0\Razor\Views\Admin\UpdateImg.cshtml.g.cs
+A:\ASP.NET CORE\WeBloge\WeBloge.Web\obj\Debug\net5.0\Razor\Views\Admin\UpdateWeBloges.cshtml.g.cs
+A:\ASP.NET CORE\WeBloge\WeBloge.Web\obj\Debug\net5.0\Razor\Views\Admin\Writer.cshtml.g.cs
+A:\ASP.NET CORE\WeBloge\WeBloge.Web\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+A:\ASP.NET CORE\WeBloge\WeBloge.Web\obj\Debug\net5.0\Razor\Views\Home\NotFoundPage.cshtml.g.cs
+A:\ASP.NET CORE\WeBloge\WeBloge.Web\obj\Debug\net5.0\Razor\Views\Shared\Components\AdminSideBar\AdminSideBar.cshtml.g.cs
+A:\ASP.NET CORE\WeBloge\WeBloge.Web\obj\Debug\net5.0\Razor\Views\Shared\Components\LatestPosts\LatestPosts.cshtml.g.cs
+A:\ASP.NET CORE\WeBloge\WeBloge.Web\obj\Debug\net5.0\Razor\Views\Shared\Components\ShowCategories\ShowCategories.cshtml.g.cs
+A:\ASP.NET CORE\WeBloge\WeBloge.Web\obj\Debug\net5.0\Razor\Views\Shared\Components\ShowSocial\ShowSocial.cshtml.g.cs
+A:\ASP.NET CORE\WeBloge\WeBloge.Web\obj\Debug\net5.0\Razor\Views\Shared\Components\WeBloges\WeBloges.cshtml.g.cs
+A:\ASP.NET CORE\WeBloge\WeBloge.Web\obj\Debug\net5.0\Razor\Views\Shared\Components\WidgetCategories\WidgetCategories.cshtml.g.cs
+A:\ASP.NET CORE\WeBloge\WeBloge.Web\obj\Debug\net5.0\Razor\Views\Shared\Components\WidgetComments\WidgetComments.cshtml.g.cs
+A:\ASP.NET CORE\WeBloge\WeBloge.Web\obj\Debug\net5.0\Razor\Views\Shared\Components\WriterProfile\WriterProfile.cshtml.g.cs
+A:\ASP.NET CORE\WeBloge\WeBloge.Web\obj\Debug\net5.0\Razor\Views\Shared\Components\WriterWeBlogeDetail\WriterWeBlogeDetail.cshtml.g.cs
+A:\ASP.NET CORE\WeBloge\WeBloge.Web\obj\Debug\net5.0\Razor\Views\Shared\_AdminLayout.cshtml.g.cs
+A:\ASP.NET CORE\WeBloge\WeBloge.Web\obj\Debug\net5.0\Razor\Views\Shared\_CaptchaScripts.cshtml.g.cs
+A:\ASP.NET CORE\WeBloge\WeBloge.Web\obj\Debug\net5.0\Razor\Views\Shared\_CommentForm.cshtml.g.cs
+A:\ASP.NET CORE\WeBloge\WeBloge.Web\obj\Debug\net5.0\Razor\Views\Shared\_Footer.cshtml.g.cs
+A:\ASP.NET CORE\WeBloge\WeBloge.Web\obj\Debug\net5.0\Razor\Views\Shared\_FooterReference.cshtml.g.cs
+A:\ASP.NET CORE\WeBloge\WeBloge.Web\obj\Debug\net5.0\Razor\Views\Shared\_Header.cshtml.g.cs
+A:\ASP.NET CORE\WeBloge\WeBloge.Web\obj\Debug\net5.0\Razor\Views\Shared\_HeaderReference.cshtml.g.cs
+A:\ASP.NET CORE\WeBloge\WeBloge.Web\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+A:\ASP.NET CORE\WeBloge\WeBloge.Web\obj\Debug\net5.0\Razor\Views\Shared\_Notification.cshtml.g.cs
+A:\ASP.NET CORE\WeBloge\WeBloge.Web\obj\Debug\net5.0\Razor\Views\Shared\_pagination.cshtml.g.cs
+A:\ASP.NET CORE\WeBloge\WeBloge.Web\obj\Debug\net5.0\Razor\Views\Shared\_PanelLayout.cshtml.g.cs
+A:\ASP.NET CORE\WeBloge\WeBloge.Web\obj\Debug\net5.0\Razor\Views\UserPanel\ChangePassword.cshtml.g.cs
+A:\ASP.NET CORE\WeBloge\WeBloge.Web\obj\Debug\net5.0\Razor\Views\UserPanel\EditProfile.cshtml.g.cs
+A:\ASP.NET CORE\WeBloge\WeBloge.Web\obj\Debug\net5.0\Razor\Views\WeBloge\ContactUs.cshtml.g.cs
+A:\ASP.NET CORE\WeBloge\WeBloge.Web\obj\Debug\net5.0\Razor\Views\WeBloge\WeBlogeDetail.cshtml.g.cs
+A:\ASP.NET CORE\WeBloge\WeBloge.Web\obj\Debug\net5.0\Razor\Views\WeBloge\WriterProfile.cshtml.g.cs
+A:\ASP.NET CORE\WeBloge\WeBloge.Web\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+A:\ASP.NET CORE\WeBloge\WeBloge.Web\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+A:\ASP.NET CORE\WeBloge\WeBloge.Web\obj\Debug\net5.0\WeBloge.Web.RazorTargetAssemblyInfo.cache
+A:\ASP.NET CORE\WeBloge\WeBloge.Web\obj\Debug\net5.0\WeBloge.Web.RazorTargetAssemblyInfo.cs
+A:\ASP.NET CORE\WeBloge\WeBloge.Web\obj\Debug\net5.0\WeBloge.Web.Views.pdb
+A:\ASP.NET CORE\WeBloge\WeBloge.Web\obj\Debug\net5.0\WeBloge.Web.csproj.CopyComplete
+A:\ASP.NET CORE\WeBloge\WeBloge.Web\obj\Debug\net5.0\WeBloge.Web.dll
+A:\ASP.NET CORE\WeBloge\WeBloge.Web\obj\Debug\net5.0\refint\WeBloge.Web.dll
+A:\ASP.NET CORE\WeBloge\WeBloge.Web\obj\Debug\net5.0\WeBloge.Web.pdb
+A:\ASP.NET CORE\WeBloge\WeBloge.Web\obj\Debug\net5.0\WeBloge.Web.genruntimeconfig.cache
+A:\ASP.NET CORE\WeBloge\WeBloge.Web\obj\Debug\net5.0\ref\WeBloge.Web.dll
+F:\ASP.NET CORE\WeBloge\WeBloge.Web\bin\Debug\net5.0\appsettings.Development.json
+F:\ASP.NET CORE\WeBloge\WeBloge.Web\bin\Debug\net5.0\appsettings.json
+F:\ASP.NET CORE\WeBloge\WeBloge.Web\bin\Debug\net5.0\WeBloge.Web.exe
+F:\ASP.NET CORE\WeBloge\WeBloge.Web\bin\Debug\net5.0\WeBloge.Web.deps.json
+F:\ASP.NET CORE\WeBloge\WeBloge.Web\bin\Debug\net5.0\WeBloge.Web.runtimeconfig.json
+F:\ASP.NET CORE\WeBloge\WeBloge.Web\bin\Debug\net5.0\WeBloge.Web.runtimeconfig.dev.json
+F:\ASP.NET CORE\WeBloge\WeBloge.Web\bin\Debug\net5.0\WeBloge.Web.dll
+F:\ASP.NET CORE\WeBloge\WeBloge.Web\bin\Debug\net5.0\WeBloge.Web.pdb
+F:\ASP.NET CORE\WeBloge\WeBloge.Web\bin\Debug\net5.0\WeBloge.Web.Views.dll
+F:\ASP.NET CORE\WeBloge\WeBloge.Web\bin\Debug\net5.0\WeBloge.Web.Views.pdb
+F:\ASP.NET CORE\WeBloge\WeBloge.Web\bin\Debug\net5.0\AngleSharp.dll
+F:\ASP.NET CORE\WeBloge\WeBloge.Web\bin\Debug\net5.0\AngleSharp.Css.dll
+F:\ASP.NET CORE\WeBloge\WeBloge.Web\bin\Debug\net5.0\GoogleReCaptcha.V3.dll
+F:\ASP.NET CORE\WeBloge\WeBloge.Web\bin\Debug\net5.0\HtmlSanitizer.dll
+F:\ASP.NET CORE\WeBloge\WeBloge.Web\bin\Debug\net5.0\Humanizer.dll
+F:\ASP.NET CORE\WeBloge\WeBloge.Web\bin\Debug\net5.0\Microsoft.AspNetCore.Http.Features.dll
+F:\ASP.NET CORE\WeBloge\WeBloge.Web\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+F:\ASP.NET CORE\WeBloge\WeBloge.Web\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+F:\ASP.NET CORE\WeBloge\WeBloge.Web\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+F:\ASP.NET CORE\WeBloge\WeBloge.Web\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+F:\ASP.NET CORE\WeBloge\WeBloge.Web\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+F:\ASP.NET CORE\WeBloge\WeBloge.Web\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+F:\ASP.NET CORE\WeBloge\WeBloge.Web\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+F:\ASP.NET CORE\WeBloge\WeBloge.Web\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+F:\ASP.NET CORE\WeBloge\WeBloge.Web\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+F:\ASP.NET CORE\WeBloge\WeBloge.Web\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\ASP.NET CORE\WeBloge\WeBloge.Web\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+F:\ASP.NET CORE\WeBloge\WeBloge.Web\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\ASP.NET CORE\WeBloge\WeBloge.Web\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\ASP.NET CORE\WeBloge\WeBloge.Web\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+F:\ASP.NET CORE\WeBloge\WeBloge.Web\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+F:\ASP.NET CORE\WeBloge\WeBloge.Web\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+F:\ASP.NET CORE\WeBloge\WeBloge.Web\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\ASP.NET CORE\WeBloge\WeBloge.Web\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+F:\ASP.NET CORE\WeBloge\WeBloge.Web\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+F:\ASP.NET CORE\WeBloge\WeBloge.Web\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\ASP.NET CORE\WeBloge\WeBloge.Web\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+F:\ASP.NET CORE\WeBloge\WeBloge.Web\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+F:\ASP.NET CORE\WeBloge\WeBloge.Web\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+F:\ASP.NET CORE\WeBloge\WeBloge.Web\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+F:\ASP.NET CORE\WeBloge\WeBloge.Web\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+F:\ASP.NET CORE\WeBloge\WeBloge.Web\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+F:\ASP.NET CORE\WeBloge\WeBloge.Web\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+F:\ASP.NET CORE\WeBloge\WeBloge.Web\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+F:\ASP.NET CORE\WeBloge\WeBloge.Web\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+F:\ASP.NET CORE\WeBloge\WeBloge.Web\bin\Debug\net5.0\Newtonsoft.Json.dll
+F:\ASP.NET CORE\WeBloge\WeBloge.Web\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+F:\ASP.NET CORE\WeBloge\WeBloge.Web\bin\Debug\net5.0\System.Composition.Convention.dll
+F:\ASP.NET CORE\WeBloge\WeBloge.Web\bin\Debug\net5.0\System.Composition.Hosting.dll
+F:\ASP.NET CORE\WeBloge\WeBloge.Web\bin\Debug\net5.0\System.Composition.Runtime.dll
+F:\ASP.NET CORE\WeBloge\WeBloge.Web\bin\Debug\net5.0\System.Composition.TypedParts.dll
+F:\ASP.NET CORE\WeBloge\WeBloge.Web\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+F:\ASP.NET CORE\WeBloge\WeBloge.Web\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+F:\ASP.NET CORE\WeBloge\WeBloge.Web\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+F:\ASP.NET CORE\WeBloge\WeBloge.Web\bin\Debug\net5.0\System.IO.Pipelines.dll
+F:\ASP.NET CORE\WeBloge\WeBloge.Web\bin\Debug\net5.0\System.Runtime.Caching.dll
+F:\ASP.NET CORE\WeBloge\WeBloge.Web\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+F:\ASP.NET CORE\WeBloge\WeBloge.Web\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+F:\ASP.NET CORE\WeBloge\WeBloge.Web\bin\Debug\net5.0\System.Text.Encoding.CodePages.dll
+F:\ASP.NET CORE\WeBloge\WeBloge.Web\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+F:\ASP.NET CORE\WeBloge\WeBloge.Web\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+F:\ASP.NET CORE\WeBloge\WeBloge.Web\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+F:\ASP.NET CORE\WeBloge\WeBloge.Web\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+F:\ASP.NET CORE\WeBloge\WeBloge.Web\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+F:\ASP.NET CORE\WeBloge\WeBloge.Web\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+F:\ASP.NET CORE\WeBloge\WeBloge.Web\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+F:\ASP.NET CORE\WeBloge\WeBloge.Web\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+F:\ASP.NET CORE\WeBloge\WeBloge.Web\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+F:\ASP.NET CORE\WeBloge\WeBloge.Web\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+F:\ASP.NET CORE\WeBloge\WeBloge.Web\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+F:\ASP.NET CORE\WeBloge\WeBloge.Web\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+F:\ASP.NET CORE\WeBloge\WeBloge.Web\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+F:\ASP.NET CORE\WeBloge\WeBloge.Web\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\ASP.NET CORE\WeBloge\WeBloge.Web\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\ASP.NET CORE\WeBloge\WeBloge.Web\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\ASP.NET CORE\WeBloge\WeBloge.Web\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\ASP.NET CORE\WeBloge\WeBloge.Web\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\ASP.NET CORE\WeBloge\WeBloge.Web\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\ASP.NET CORE\WeBloge\WeBloge.Web\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\ASP.NET CORE\WeBloge\WeBloge.Web\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\ASP.NET CORE\WeBloge\WeBloge.Web\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\ASP.NET CORE\WeBloge\WeBloge.Web\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\ASP.NET CORE\WeBloge\WeBloge.Web\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\ASP.NET CORE\WeBloge\WeBloge.Web\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\ASP.NET CORE\WeBloge\WeBloge.Web\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\ASP.NET CORE\WeBloge\WeBloge.Web\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\ASP.NET CORE\WeBloge\WeBloge.Web\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\ASP.NET CORE\WeBloge\WeBloge.Web\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\ASP.NET CORE\WeBloge\WeBloge.Web\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\ASP.NET CORE\WeBloge\WeBloge.Web\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\ASP.NET CORE\WeBloge\WeBloge.Web\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\ASP.NET CORE\WeBloge\WeBloge.Web\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\ASP.NET CORE\WeBloge\WeBloge.Web\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\ASP.NET CORE\WeBloge\WeBloge.Web\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\ASP.NET CORE\WeBloge\WeBloge.Web\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\ASP.NET CORE\WeBloge\WeBloge.Web\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\ASP.NET CORE\WeBloge\WeBloge.Web\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\ASP.NET CORE\WeBloge\WeBloge.Web\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\ASP.NET CORE\WeBloge\WeBloge.Web\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\ASP.NET CORE\WeBloge\WeBloge.Web\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\ASP.NET CORE\WeBloge\WeBloge.Web\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\ASP.NET CORE\WeBloge\WeBloge.Web\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\ASP.NET CORE\WeBloge\WeBloge.Web\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\ASP.NET CORE\WeBloge\WeBloge.Web\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\ASP.NET CORE\WeBloge\WeBloge.Web\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\ASP.NET CORE\WeBloge\WeBloge.Web\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\ASP.NET CORE\WeBloge\WeBloge.Web\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\ASP.NET CORE\WeBloge\WeBloge.Web\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\ASP.NET CORE\WeBloge\WeBloge.Web\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\ASP.NET CORE\WeBloge\WeBloge.Web\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\ASP.NET CORE\WeBloge\WeBloge.Web\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\ASP.NET CORE\WeBloge\WeBloge.Web\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\ASP.NET CORE\WeBloge\WeBloge.Web\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\ASP.NET CORE\WeBloge\WeBloge.Web\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\ASP.NET CORE\WeBloge\WeBloge.Web\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\ASP.NET CORE\WeBloge\WeBloge.Web\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\ASP.NET CORE\WeBloge\WeBloge.Web\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\ASP.NET CORE\WeBloge\WeBloge.Web\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\ASP.NET CORE\WeBloge\WeBloge.Web\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\ASP.NET CORE\WeBloge\WeBloge.Web\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\ASP.NET CORE\WeBloge\WeBloge.Web\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\ASP.NET CORE\WeBloge\WeBloge.Web\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+F:\ASP.NET CORE\WeBloge\WeBloge.Web\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+F:\ASP.NET CORE\WeBloge\WeBloge.Web\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+F:\ASP.NET CORE\WeBloge\WeBloge.Web\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\ASP.NET CORE\WeBloge\WeBloge.Web\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\System.Text.Encoding.CodePages.dll
+F:\ASP.NET CORE\WeBloge\WeBloge.Web\bin\Debug\net5.0\WeBloge.Application.dll
+F:\ASP.NET CORE\WeBloge\WeBloge.Web\bin\Debug\net5.0\WeBloge.DataLayer.dll
+F:\ASP.NET CORE\WeBloge\WeBloge.Web\bin\Debug\net5.0\WeBloge.Domain.dll
+F:\ASP.NET CORE\WeBloge\WeBloge.Web\bin\Debug\net5.0\WeBloge.Application.pdb
+F:\ASP.NET CORE\WeBloge\WeBloge.Web\bin\Debug\net5.0\WeBloge.DataLayer.pdb
+F:\ASP.NET CORE\WeBloge\WeBloge.Web\bin\Debug\net5.0\WeBloge.Domain.pdb
+F:\ASP.NET CORE\WeBloge\WeBloge.Web\obj\Debug\net5.0\WeBloge.Web.csproj.AssemblyReference.cache
+F:\ASP.NET CORE\WeBloge\WeBloge.Web\obj\Debug\net5.0\WeBloge.Web.GeneratedMSBuildEditorConfig.editorconfig
+F:\ASP.NET CORE\WeBloge\WeBloge.Web\obj\Debug\net5.0\WeBloge.Web.AssemblyInfoInputs.cache
+F:\ASP.NET CORE\WeBloge\WeBloge.Web\obj\Debug\net5.0\WeBloge.Web.AssemblyInfo.cs
+F:\ASP.NET CORE\WeBloge\WeBloge.Web\obj\Debug\net5.0\WeBloge.Web.csproj.CoreCompileInputs.cache
+F:\ASP.NET CORE\WeBloge\WeBloge.Web\obj\Debug\net5.0\WeBloge.Web.MvcApplicationPartsAssemblyInfo.cache
+F:\ASP.NET CORE\WeBloge\WeBloge.Web\obj\Debug\net5.0\WeBloge.Web.RazorAssemblyInfo.cache
+F:\ASP.NET CORE\WeBloge\WeBloge.Web\obj\Debug\net5.0\WeBloge.Web.RazorAssemblyInfo.cs
+F:\ASP.NET CORE\WeBloge\WeBloge.Web\obj\Debug\net5.0\scopedcss\bundle\WeBloge.Web.styles.css
+F:\ASP.NET CORE\WeBloge\WeBloge.Web\obj\Debug\net5.0\staticwebassets\WeBloge.Web.StaticWebAssets.Manifest.cache
+F:\ASP.NET CORE\WeBloge\WeBloge.Web\obj\Debug\net5.0\staticwebassets\WeBloge.Web.StaticWebAssets.Pack.cache
+F:\ASP.NET CORE\WeBloge\WeBloge.Web\obj\Debug\net5.0\staticwebassets\msbuild.WeBloge.Web.Microsoft.AspNetCore.StaticWebAssets.props
+F:\ASP.NET CORE\WeBloge\WeBloge.Web\obj\Debug\net5.0\staticwebassets\msbuild.build.WeBloge.Web.props
+F:\ASP.NET CORE\WeBloge\WeBloge.Web\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.WeBloge.Web.props
+F:\ASP.NET CORE\WeBloge\WeBloge.Web\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.WeBloge.Web.props
+F:\ASP.NET CORE\WeBloge\WeBloge.Web\obj\Debug\net5.0\WeBloge.Web.TagHelpers.input.cache
+F:\ASP.NET CORE\WeBloge\WeBloge.Web\obj\Debug\net5.0\WeBloge.Web.TagHelpers.output.cache
+F:\ASP.NET CORE\WeBloge\WeBloge.Web\obj\Debug\net5.0\WeBloge.Web.RazorCoreGenerate.cache
+F:\ASP.NET CORE\WeBloge\WeBloge.Web\obj\Debug\net5.0\Razor\Views\Account\ForgotPassword.cshtml.g.cs
+F:\ASP.NET CORE\WeBloge\WeBloge.Web\obj\Debug\net5.0\Razor\Views\Account\Login.cshtml.g.cs
+F:\ASP.NET CORE\WeBloge\WeBloge.Web\obj\Debug\net5.0\Razor\Views\Account\Register.cshtml.g.cs
+F:\ASP.NET CORE\WeBloge\WeBloge.Web\obj\Debug\net5.0\Razor\Views\Account\ResetPassword.cshtml.g.cs
+F:\ASP.NET CORE\WeBloge\WeBloge.Web\obj\Debug\net5.0\Razor\Views\Admin\AddSocial.cshtml.g.cs
+F:\ASP.NET CORE\WeBloge\WeBloge.Web\obj\Debug\net5.0\Razor\Views\Admin\Categories.cshtml.g.cs
+F:\ASP.NET CORE\WeBloge\WeBloge.Web\obj\Debug\net5.0\Razor\Views\Admin\ContactUsDetail.cshtml.g.cs
+F:\ASP.NET CORE\WeBloge\WeBloge.Web\obj\Debug\net5.0\Razor\Views\Admin\CreateWeBloge.cshtml.g.cs
+F:\ASP.NET CORE\WeBloge\WeBloge.Web\obj\Debug\net5.0\Razor\Views\Admin\DeleteCategories.cshtml.g.cs
+F:\ASP.NET CORE\WeBloge\WeBloge.Web\obj\Debug\net5.0\Razor\Views\Admin\DeleteWeBloges.cshtml.g.cs
+F:\ASP.NET CORE\WeBloge\WeBloge.Web\obj\Debug\net5.0\Razor\Views\Admin\ShowAllCategories.cshtml.g.cs
+F:\ASP.NET CORE\WeBloge\WeBloge.Web\obj\Debug\net5.0\Razor\Views\Admin\ShowAllContactUs.cshtml.g.cs
+F:\ASP.NET CORE\WeBloge\WeBloge.Web\obj\Debug\net5.0\Razor\Views\Admin\ShowAllWeBloge.cshtml.g.cs
+F:\ASP.NET CORE\WeBloge\WeBloge.Web\obj\Debug\net5.0\Razor\Views\Admin\UpdateCategories.cshtml.g.cs
+F:\ASP.NET CORE\WeBloge\WeBloge.Web\obj\Debug\net5.0\Razor\Views\Admin\UpdateImg.cshtml.g.cs
+F:\ASP.NET CORE\WeBloge\WeBloge.Web\obj\Debug\net5.0\Razor\Views\Admin\UpdateWeBloges.cshtml.g.cs
+F:\ASP.NET CORE\WeBloge\WeBloge.Web\obj\Debug\net5.0\Razor\Views\Admin\Writer.cshtml.g.cs
+F:\ASP.NET CORE\WeBloge\WeBloge.Web\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+F:\ASP.NET CORE\WeBloge\WeBloge.Web\obj\Debug\net5.0\Razor\Views\Home\NotFoundPage.cshtml.g.cs
+F:\ASP.NET CORE\WeBloge\WeBloge.Web\obj\Debug\net5.0\Razor\Views\Shared\Components\AdminSideBar\AdminSideBar.cshtml.g.cs
+F:\ASP.NET CORE\WeBloge\WeBloge.Web\obj\Debug\net5.0\Razor\Views\Shared\Components\LatestPosts\LatestPosts.cshtml.g.cs
+F:\ASP.NET CORE\WeBloge\WeBloge.Web\obj\Debug\net5.0\Razor\Views\Shared\Components\ShowCategories\ShowCategories.cshtml.g.cs
+F:\ASP.NET CORE\WeBloge\WeBloge.Web\obj\Debug\net5.0\Razor\Views\Shared\Components\ShowSocial\ShowSocial.cshtml.g.cs
+F:\ASP.NET CORE\WeBloge\WeBloge.Web\obj\Debug\net5.0\Razor\Views\Shared\Components\WidgetCategories\WidgetCategories.cshtml.g.cs
+F:\ASP.NET CORE\WeBloge\WeBloge.Web\obj\Debug\net5.0\Razor\Views\Shared\Components\WidgetComments\WidgetComments.cshtml.g.cs
+F:\ASP.NET CORE\WeBloge\WeBloge.Web\obj\Debug\net5.0\Razor\Views\Shared\Components\WriterProfile\WriterProfile.cshtml.g.cs
+F:\ASP.NET CORE\WeBloge\WeBloge.Web\obj\Debug\net5.0\Razor\Views\Shared\Components\WriterWeBlogeDetail\WriterWeBlogeDetail.cshtml.g.cs
+F:\ASP.NET CORE\WeBloge\WeBloge.Web\obj\Debug\net5.0\Razor\Views\Shared\_AdminLayout.cshtml.g.cs
+F:\ASP.NET CORE\WeBloge\WeBloge.Web\obj\Debug\net5.0\Razor\Views\Shared\_CaptchaScripts.cshtml.g.cs
+F:\ASP.NET CORE\WeBloge\WeBloge.Web\obj\Debug\net5.0\Razor\Views\Shared\_CommentForm.cshtml.g.cs
+F:\ASP.NET CORE\WeBloge\WeBloge.Web\obj\Debug\net5.0\Razor\Views\Shared\_Footer.cshtml.g.cs
+F:\ASP.NET CORE\WeBloge\WeBloge.Web\obj\Debug\net5.0\Razor\Views\Shared\_FooterReference.cshtml.g.cs
+F:\ASP.NET CORE\WeBloge\WeBloge.Web\obj\Debug\net5.0\Razor\Views\Shared\_Header.cshtml.g.cs
+F:\ASP.NET CORE\WeBloge\WeBloge.Web\obj\Debug\net5.0\Razor\Views\Shared\_HeaderReference.cshtml.g.cs
+F:\ASP.NET CORE\WeBloge\WeBloge.Web\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+F:\ASP.NET CORE\WeBloge\WeBloge.Web\obj\Debug\net5.0\Razor\Views\Shared\_Notification.cshtml.g.cs
+F:\ASP.NET CORE\WeBloge\WeBloge.Web\obj\Debug\net5.0\Razor\Views\Shared\_pagination.cshtml.g.cs
+F:\ASP.NET CORE\WeBloge\WeBloge.Web\obj\Debug\net5.0\Razor\Views\Shared\_PanelLayout.cshtml.g.cs
+F:\ASP.NET CORE\WeBloge\WeBloge.Web\obj\Debug\net5.0\Razor\Views\UserPanel\ChangePassword.cshtml.g.cs
+F:\ASP.NET CORE\WeBloge\WeBloge.Web\obj\Debug\net5.0\Razor\Views\UserPanel\EditProfile.cshtml.g.cs
+F:\ASP.NET CORE\WeBloge\WeBloge.Web\obj\Debug\net5.0\Razor\Views\WeBloge\ContactUs.cshtml.g.cs
+F:\ASP.NET CORE\WeBloge\WeBloge.Web\obj\Debug\net5.0\Razor\Views\WeBloge\WeBlogeDetail.cshtml.g.cs
+F:\ASP.NET CORE\WeBloge\WeBloge.Web\obj\Debug\net5.0\Razor\Views\WeBloge\WriterProfile.cshtml.g.cs
+F:\ASP.NET CORE\WeBloge\WeBloge.Web\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+F:\ASP.NET CORE\WeBloge\WeBloge.Web\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+F:\ASP.NET CORE\WeBloge\WeBloge.Web\obj\Debug\net5.0\WeBloge.Web.RazorTargetAssemblyInfo.cache
+F:\ASP.NET CORE\WeBloge\WeBloge.Web\obj\Debug\net5.0\WeBloge.Web.RazorTargetAssemblyInfo.cs
+F:\ASP.NET CORE\WeBloge\WeBloge.Web\obj\Debug\net5.0\WeBloge.Web.Views.pdb
+F:\ASP.NET CORE\WeBloge\WeBloge.Web\obj\Debug\net5.0\WeBloge.Web.csproj.CopyComplete
+F:\ASP.NET CORE\WeBloge\WeBloge.Web\obj\Debug\net5.0\WeBloge.Web.dll
+F:\ASP.NET CORE\WeBloge\WeBloge.Web\obj\Debug\net5.0\refint\WeBloge.Web.dll
+F:\ASP.NET CORE\WeBloge\WeBloge.Web\obj\Debug\net5.0\WeBloge.Web.pdb
+F:\ASP.NET CORE\WeBloge\WeBloge.Web\obj\Debug\net5.0\WeBloge.Web.genruntimeconfig.cache
+F:\ASP.NET CORE\WeBloge\WeBloge.Web\obj\Debug\net5.0\ref\WeBloge.Web.dll

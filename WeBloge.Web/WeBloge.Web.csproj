@@ -1,0 +1,123 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="ViewComponents\wujql5i0.uvw~" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="GoogleReCaptcha.V3" Version="1.3.1" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="5.0.17" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="5.0.17">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+    <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="5.0.2" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\WeBloge.Application\WeBloge.Application.csproj" />
+    <ProjectReference Include="..\WeBloge.DataLayer\WeBloge.DataLayer.csproj" />
+    <ProjectReference Include="..\WeBloge.Domain\WeBloge.Domain.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="wwwroot\assets\libs\bootstrap-maxlength\src\" />
+    <Folder Include="wwwroot\assets\libs\bootstrap-maxlength\test\" />
+    <Folder Include="wwwroot\assets\libs\flot-charts\examples\" />
+    <Folder Include="wwwroot\assets\libs\flot.curvedlines\examples\" />
+    <Folder Include="wwwroot\assets\libs\flot.curvedlines\tests\" />
+    <Folder Include="wwwroot\assets\libs\gmaps\docs\" />
+    <Folder Include="wwwroot\assets\libs\gmaps\examples\" />
+    <Folder Include="wwwroot\assets\libs\gmaps\test\" />
+    <Folder Include="wwwroot\assets\libs\ion-rangeslider\less\skins\" />
+    <Folder Include="wwwroot\assets\libs\jquery-sparkline\src\" />
+    <Folder Include="wwwroot\assets\libs\jquery-steps\demo\" />
+    <Folder Include="wwwroot\assets\libs\jquery-steps\src\" />
+    <Folder Include="wwwroot\assets\libs\jquery-steps\test\" />
+    <Folder Include="wwwroot\assets\libs\jquery.flot.tooltip\examples\" />
+    <Folder Include="wwwroot\assets\libs\jquery.repeater\src\" />
+    <Folder Include="wwwroot\assets\libs\jquery.repeater\test\" />
+    <Folder Include="wwwroot\assets\libs\moment\src\" />
+    <Folder Include="wwwroot\assets\libs\pdfmake\src\" />
+    <Folder Include="wwwroot\content\ckeditor\" />
+    <Folder Include="wwwroot\content\gallery\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="wwwroot\custom\ckeditor\build\ckeditor.js" />
+    <None Include="wwwroot\custom\ckeditor\build\ckeditor.js.map" />
+    <None Include="wwwroot\custom\ckeditor\build\translations\af.js" />
+    <None Include="wwwroot\custom\ckeditor\build\translations\ar.js" />
+    <None Include="wwwroot\custom\ckeditor\build\translations\ast.js" />
+    <None Include="wwwroot\custom\ckeditor\build\translations\az.js" />
+    <None Include="wwwroot\custom\ckeditor\build\translations\bg.js" />
+    <None Include="wwwroot\custom\ckeditor\build\translations\bs.js" />
+    <None Include="wwwroot\custom\ckeditor\build\translations\ca.js" />
+    <None Include="wwwroot\custom\ckeditor\build\translations\cs.js" />
+    <None Include="wwwroot\custom\ckeditor\build\translations\da.js" />
+    <None Include="wwwroot\custom\ckeditor\build\translations\de-ch.js" />
+    <None Include="wwwroot\custom\ckeditor\build\translations\de.js" />
+    <None Include="wwwroot\custom\ckeditor\build\translations\el.js" />
+    <None Include="wwwroot\custom\ckeditor\build\translations\en-au.js" />
+    <None Include="wwwroot\custom\ckeditor\build\translations\en-gb.js" />
+    <None Include="wwwroot\custom\ckeditor\build\translations\en.js" />
+    <None Include="wwwroot\custom\ckeditor\build\translations\eo.js" />
+    <None Include="wwwroot\custom\ckeditor\build\translations\es.js" />
+    <None Include="wwwroot\custom\ckeditor\build\translations\et.js" />
+    <None Include="wwwroot\custom\ckeditor\build\translations\eu.js" />
+    <None Include="wwwroot\custom\ckeditor\build\translations\fi.js" />
+    <None Include="wwwroot\custom\ckeditor\build\translations\fr.js" />
+    <None Include="wwwroot\custom\ckeditor\build\translations\gl.js" />
+    <None Include="wwwroot\custom\ckeditor\build\translations\gu.js" />
+    <None Include="wwwroot\custom\ckeditor\build\translations\he.js" />
+    <None Include="wwwroot\custom\ckeditor\build\translations\hi.js" />
+    <None Include="wwwroot\custom\ckeditor\build\translations\hr.js" />
+    <None Include="wwwroot\custom\ckeditor\build\translations\hu.js" />
+    <None Include="wwwroot\custom\ckeditor\build\translations\id.js" />
+    <None Include="wwwroot\custom\ckeditor\build\translations\it.js" />
+    <None Include="wwwroot\custom\ckeditor\build\translations\ja.js" />
+    <None Include="wwwroot\custom\ckeditor\build\translations\kk.js" />
+    <None Include="wwwroot\custom\ckeditor\build\translations\km.js" />
+    <None Include="wwwroot\custom\ckeditor\build\translations\kn.js" />
+    <None Include="wwwroot\custom\ckeditor\build\translations\ko.js" />
+    <None Include="wwwroot\custom\ckeditor\build\translations\ku.js" />
+    <None Include="wwwroot\custom\ckeditor\build\translations\lt.js" />
+    <None Include="wwwroot\custom\ckeditor\build\translations\lv.js" />
+    <None Include="wwwroot\custom\ckeditor\build\translations\nb.js" />
+    <None Include="wwwroot\custom\ckeditor\build\translations\ne.js" />
+    <None Include="wwwroot\custom\ckeditor\build\translations\nl.js" />
+    <None Include="wwwroot\custom\ckeditor\build\translations\no.js" />
+    <None Include="wwwroot\custom\ckeditor\build\translations\oc.js" />
+    <None Include="wwwroot\custom\ckeditor\build\translations\pl.js" />
+    <None Include="wwwroot\custom\ckeditor\build\translations\pt-br.js" />
+    <None Include="wwwroot\custom\ckeditor\build\translations\pt.js" />
+    <None Include="wwwroot\custom\ckeditor\build\translations\ro.js" />
+    <None Include="wwwroot\custom\ckeditor\build\translations\ru.js" />
+    <None Include="wwwroot\custom\ckeditor\build\translations\si.js" />
+    <None Include="wwwroot\custom\ckeditor\build\translations\sk.js" />
+    <None Include="wwwroot\custom\ckeditor\build\translations\sl.js" />
+    <None Include="wwwroot\custom\ckeditor\build\translations\sq.js" />
+    <None Include="wwwroot\custom\ckeditor\build\translations\sr-latn.js" />
+    <None Include="wwwroot\custom\ckeditor\build\translations\sr.js" />
+    <None Include="wwwroot\custom\ckeditor\build\translations\sv.js" />
+    <None Include="wwwroot\custom\ckeditor\build\translations\th.js" />
+    <None Include="wwwroot\custom\ckeditor\build\translations\tk.js" />
+    <None Include="wwwroot\custom\ckeditor\build\translations\tr.js" />
+    <None Include="wwwroot\custom\ckeditor\build\translations\tt.js" />
+    <None Include="wwwroot\custom\ckeditor\build\translations\ug.js" />
+    <None Include="wwwroot\custom\ckeditor\build\translations\uk.js" />
+    <None Include="wwwroot\custom\ckeditor\build\translations\uz.js" />
+    <None Include="wwwroot\custom\ckeditor\build\translations\vi.js" />
+    <None Include="wwwroot\custom\ckeditor\build\translations\zh-cn.js" />
+    <None Include="wwwroot\custom\ckeditor\build\translations\zh.js" />
+    <None Include="wwwroot\custom\ckeditor\LICENSE.md" />
+    <None Include="wwwroot\custom\ckeditor\README.md" />
+    <None Include="wwwroot\custom\ckeditor\src\ckeditor.js" />
+    <None Include="wwwroot\custom\ckeditor\webpack.config.js" />
+  </ItemGroup>
+
+</Project>

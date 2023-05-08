@@ -1,0 +1,20 @@
+﻿@model WeBloge.Domain.ViewModels.WeBloge.CommentViewModel
+
+<div class="title">
+    <h5>نوشتن یک دیدگاه</h5>
+</div>
+<form class="widget-form" asp-action="CommentWeBloge" asp-controller="WeBloge" method="post" id="main_contact_form">
+    <div class="row">
+        <div class="col-md-12">
+            <div class="form-group">
+                <input type="hidden" asp-for="WeBlogesId"/>
+                <textarea asp-for="Comment" cols="30" rows="5" class="form-control" placeholder="دیدگاه شما*" required="required"></textarea>
+            </div>
+        </div>
+        <div class="col-12">
+            <button type="submit" name="submit" class="btn-custom">
+                ثبت دیدگاه
+            </button>
+        </div>
+    </div>
+</form>

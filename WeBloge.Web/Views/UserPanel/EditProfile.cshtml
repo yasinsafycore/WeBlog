@@ -1,0 +1,105 @@
+﻿@model WeBloge.Domain.ViewModels.UserPanel.EditProfileViewModel
+
+@{
+    ViewData["Title"] = "تنظیمات حساب کاربری";
+    Layout = "~/Views/Shared/_PanelLayout.cshtml";
+}
+
+
+<div class="container-fluid">
+    <div id="layout-wrapper">
+        <div class="main-content">
+
+
+            <div class="page-content pt-1">
+                <div class="page-title-box d-flex align-items-center justify-content-between">
+                    <h4 class="page-title mb-0 font-size-18">تنظیمات حساب کاربری</h4>
+                    <div class="page-title-right">
+                        <ol class="breadcrumb m-0">
+                            <li class="breadcrumb-item"><a href="/">صفحه اصلی</a></li>
+                            <li class="breadcrumb-item active">پروفایل</li>
+                        </ol>
+                    </div>
+
+                </div>
+
+
+                <div class="row">
+                    <div class="col-md-12 col-xl-12">
+
+                        <div class="card">
+                            <div class="card-body">
+                                
+                                <li class="nav-item">
+                                    <a class="nav-link active" data-toggle="tab" href="#settings" role="tab" aria-selected="true">
+                                        <span class="d-block d-sm-none"><i class="far fa-envelope"></i></span>
+                                        <span class="d-none d-sm-block">تنظیمات</span>
+                                    </a>
+                                </li>
+
+                                <!-- Tab panes -->
+                                <div class="tab-content p-3 text-muted">
+                                    <div class="tab-pane" id="revenue" role="tabpanel" style="position: relative;">
+                                        <div id="revenue-chart" class="apex-charts mt-4" style="min-height: 315px;"><div id="apexcharts0zaiaxdw" class="apexcharts-canvas apexcharts0zaiaxdw" style="width: 0px; height: 300px;"><svg id="SvgjsSvg1026" width="0" height="300" xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:svgjs="http://svgjs.com/svgjs" class="apexcharts-svg" xmlns:data="ApexChartsNS" transform="translate(0, 0)" style="background: transparent;"><g id="SvgjsG1029" class="apexcharts-annotations"></g><g id="SvgjsG1028" class="apexcharts-inner apexcharts-graphical"><defs id="SvgjsDefs1027"></defs></g></svg><div class="apexcharts-legend"></div></div></div>
+                                        <div class="resize-triggers"><div class="expand-trigger"><div style="width: 1px; height: 1px;"></div></div><div class="contract-trigger"></div></div>
+                                    </div>
+                                    <form method="post" asp-action="EditProfile" asp-controller="UserPanel" class="tab-pane active">
+
+                                        <div class="row mt-4">
+                                            <div class="col-md-6">
+                                                <div class="form-group">
+                                                    <label >نام</label>
+                                                    <input type="text" class="form-control" asp-for="FirstName" placeholder="نام را وارد کنید">
+                                                    <span class="text-danger m-1" asp-validation-for="FirstName"></span>
+                                                </div>
+                                            </div>
+                                            <div class="col-md-6">
+                                                <div class="form-group">
+                                                    <label>نام خانوادگی</label>
+                                                    <input type="text" class="form-control" asp-for="LastName" placeholder="نام خانوادگی را وارد کنید">
+                                                    <span class="text-danger m-1" asp-validation-for="LastName"></span>
+                                                </div>
+                                            </div> <!-- end col -->
+                                        </div>
+
+                                        <div class="row">
+                                            <div class="col-12">
+                                                <div class="form-group">
+                                                    <label>معرفی</label>
+                                                    <textarea asp-for="Description" class="form-control" rows="5" placeholder="چیزی بنویسید ..."></textarea>
+                                                </div>
+                                            </div> <!-- end col -->
+                                        </div>
+
+                                        <div class="row">
+                                            <div class="col-md-12">
+                                                <div class="form-group mb-md-0">
+                                                    <label>شماره موبایل</label>
+                                                    <input asp-for="PhoneNumber" class="form-control" placeholder="شماره را وارد کنید">
+                                                    <span class="text-danger m-1" asp-validation-for="PhoneNumber"></span>
+                                                </div>
+                                            </div>
+                                        </div>
+
+                                        <div class="pt-2">
+                                            <button type="submit" class="btn btn-primary btn-lg waves-effect waves-light">ویرایش اطلاعات</button>
+                                        </div>
+                                    </form>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- end row -->
+
+            </div>
+            <!-- End Page-content -->
+        </div>
+
+    </div>
+
+</div>
+<div class="rightbar-overlay"></div>
+

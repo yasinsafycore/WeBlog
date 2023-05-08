@@ -1,0 +1,14 @@
+﻿@model WeBloge.Domain.Entities.Admin.Writer
+
+@if (Model != null)
+{
+    <div class="widget-author">
+        <a asp-action="WriterProfile" asp-controller="WeBloge" class="image">
+            <img src="/content/gallery/@Model.Img" alt="">
+        </a>
+        <h6>
+            <span>من @($"{Model.FirstName} {Model.LastName}") هستم</span>
+        </h6>
+        <p>@Model.Description</p>
+    </div>
+}

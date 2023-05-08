@@ -1,0 +1,72 @@
+A:\.Net5\WeBloge\WeBloge.Application\bin\Debug\net5.0\WeBloge.Application.deps.json
+A:\.Net5\WeBloge\WeBloge.Application\bin\Debug\net5.0\WeBloge.Application.dll
+A:\.Net5\WeBloge\WeBloge.Application\bin\Debug\net5.0\WeBloge.Application.pdb
+A:\.Net5\WeBloge\WeBloge.Application\obj\Debug\net5.0\WeBloge.Application.csproj.AssemblyReference.cache
+A:\.Net5\WeBloge\WeBloge.Application\obj\Debug\net5.0\WeBloge.Application.GeneratedMSBuildEditorConfig.editorconfig
+A:\.Net5\WeBloge\WeBloge.Application\obj\Debug\net5.0\WeBloge.Application.AssemblyInfoInputs.cache
+A:\.Net5\WeBloge\WeBloge.Application\obj\Debug\net5.0\WeBloge.Application.AssemblyInfo.cs
+A:\.Net5\WeBloge\WeBloge.Application\obj\Debug\net5.0\WeBloge.Application.csproj.CoreCompileInputs.cache
+A:\.Net5\WeBloge\WeBloge.Application\obj\Debug\net5.0\WeBloge.Application.dll
+A:\.Net5\WeBloge\WeBloge.Application\obj\Debug\net5.0\refint\WeBloge.Application.dll
+A:\.Net5\WeBloge\WeBloge.Application\obj\Debug\net5.0\WeBloge.Application.pdb
+A:\.Net5\WeBloge\WeBloge.Application\obj\Debug\net5.0\ref\WeBloge.Application.dll
+A:\.Net5\WeBloge\WeBloge.Application\bin\Debug\net5.0\WeBloge.Domain.dll
+A:\.Net5\WeBloge\WeBloge.Application\bin\Debug\net5.0\WeBloge.Domain.pdb
+A:\.Net5\WeBloge\WeBloge.Application\obj\Debug\net5.0\WeBloge.Application.csproj.CopyComplete
+A:\.Net5\WeBloge\WeBloge.Application\bin\Debug\net5.0\WeBloge.Application.runtimeconfig.json
+A:\.Net5\WeBloge\WeBloge.Application\bin\Debug\net5.0\WeBloge.Application.runtimeconfig.dev.json
+A:\.Net5\WeBloge\WeBloge.Application\obj\Debug\net5.0\WeBloge.Application.genruntimeconfig.cache
+E:\.Net5\WeBloge\WeBloge.Application\bin\Debug\net5.0\WeBloge.Application.deps.json
+E:\.Net5\WeBloge\WeBloge.Application\bin\Debug\net5.0\WeBloge.Application.runtimeconfig.json
+E:\.Net5\WeBloge\WeBloge.Application\bin\Debug\net5.0\WeBloge.Application.runtimeconfig.dev.json
+E:\.Net5\WeBloge\WeBloge.Application\bin\Debug\net5.0\WeBloge.Application.dll
+E:\.Net5\WeBloge\WeBloge.Application\bin\Debug\net5.0\WeBloge.Application.pdb
+E:\.Net5\WeBloge\WeBloge.Application\bin\Debug\net5.0\WeBloge.Domain.dll
+E:\.Net5\WeBloge\WeBloge.Application\bin\Debug\net5.0\WeBloge.Domain.pdb
+E:\.Net5\WeBloge\WeBloge.Application\obj\Debug\net5.0\WeBloge.Application.csproj.AssemblyReference.cache
+E:\.Net5\WeBloge\WeBloge.Application\obj\Debug\net5.0\WeBloge.Application.GeneratedMSBuildEditorConfig.editorconfig
+E:\.Net5\WeBloge\WeBloge.Application\obj\Debug\net5.0\WeBloge.Application.AssemblyInfoInputs.cache
+E:\.Net5\WeBloge\WeBloge.Application\obj\Debug\net5.0\WeBloge.Application.AssemblyInfo.cs
+E:\.Net5\WeBloge\WeBloge.Application\obj\Debug\net5.0\WeBloge.Application.csproj.CoreCompileInputs.cache
+E:\.Net5\WeBloge\WeBloge.Application\obj\Debug\net5.0\WeBloge.Application.csproj.CopyComplete
+E:\.Net5\WeBloge\WeBloge.Application\obj\Debug\net5.0\WeBloge.Application.dll
+E:\.Net5\WeBloge\WeBloge.Application\obj\Debug\net5.0\refint\WeBloge.Application.dll
+E:\.Net5\WeBloge\WeBloge.Application\obj\Debug\net5.0\WeBloge.Application.pdb
+E:\.Net5\WeBloge\WeBloge.Application\obj\Debug\net5.0\WeBloge.Application.genruntimeconfig.cache
+E:\.Net5\WeBloge\WeBloge.Application\obj\Debug\net5.0\ref\WeBloge.Application.dll
+A:\ASP.NET CORE\WeBloge\WeBloge.Application\bin\Debug\net5.0\WeBloge.Application.deps.json
+A:\ASP.NET CORE\WeBloge\WeBloge.Application\bin\Debug\net5.0\WeBloge.Application.runtimeconfig.json
+A:\ASP.NET CORE\WeBloge\WeBloge.Application\bin\Debug\net5.0\WeBloge.Application.runtimeconfig.dev.json
+A:\ASP.NET CORE\WeBloge\WeBloge.Application\bin\Debug\net5.0\WeBloge.Application.dll
+A:\ASP.NET CORE\WeBloge\WeBloge.Application\bin\Debug\net5.0\WeBloge.Application.pdb
+A:\ASP.NET CORE\WeBloge\WeBloge.Application\bin\Debug\net5.0\WeBloge.Domain.dll
+A:\ASP.NET CORE\WeBloge\WeBloge.Application\bin\Debug\net5.0\WeBloge.Domain.pdb
+A:\ASP.NET CORE\WeBloge\WeBloge.Application\obj\Debug\net5.0\WeBloge.Application.csproj.AssemblyReference.cache
+A:\ASP.NET CORE\WeBloge\WeBloge.Application\obj\Debug\net5.0\WeBloge.Application.GeneratedMSBuildEditorConfig.editorconfig
+A:\ASP.NET CORE\WeBloge\WeBloge.Application\obj\Debug\net5.0\WeBloge.Application.AssemblyInfoInputs.cache
+A:\ASP.NET CORE\WeBloge\WeBloge.Application\obj\Debug\net5.0\WeBloge.Application.AssemblyInfo.cs
+A:\ASP.NET CORE\WeBloge\WeBloge.Application\obj\Debug\net5.0\WeBloge.Application.csproj.CoreCompileInputs.cache
+A:\ASP.NET CORE\WeBloge\WeBloge.Application\obj\Debug\net5.0\WeBloge.Application.csproj.CopyComplete
+A:\ASP.NET CORE\WeBloge\WeBloge.Application\obj\Debug\net5.0\WeBloge.Application.dll
+A:\ASP.NET CORE\WeBloge\WeBloge.Application\obj\Debug\net5.0\refint\WeBloge.Application.dll
+A:\ASP.NET CORE\WeBloge\WeBloge.Application\obj\Debug\net5.0\WeBloge.Application.pdb
+A:\ASP.NET CORE\WeBloge\WeBloge.Application\obj\Debug\net5.0\WeBloge.Application.genruntimeconfig.cache
+A:\ASP.NET CORE\WeBloge\WeBloge.Application\obj\Debug\net5.0\ref\WeBloge.Application.dll
+F:\ASP.NET CORE\WeBloge\WeBloge.Application\bin\Debug\net5.0\WeBloge.Application.deps.json
+F:\ASP.NET CORE\WeBloge\WeBloge.Application\bin\Debug\net5.0\WeBloge.Application.runtimeconfig.json
+F:\ASP.NET CORE\WeBloge\WeBloge.Application\bin\Debug\net5.0\WeBloge.Application.runtimeconfig.dev.json
+F:\ASP.NET CORE\WeBloge\WeBloge.Application\bin\Debug\net5.0\WeBloge.Application.dll
+F:\ASP.NET CORE\WeBloge\WeBloge.Application\bin\Debug\net5.0\WeBloge.Application.pdb
+F:\ASP.NET CORE\WeBloge\WeBloge.Application\bin\Debug\net5.0\WeBloge.Domain.dll
+F:\ASP.NET CORE\WeBloge\WeBloge.Application\bin\Debug\net5.0\WeBloge.Domain.pdb
+F:\ASP.NET CORE\WeBloge\WeBloge.Application\obj\Debug\net5.0\WeBloge.Application.csproj.AssemblyReference.cache
+F:\ASP.NET CORE\WeBloge\WeBloge.Application\obj\Debug\net5.0\WeBloge.Application.GeneratedMSBuildEditorConfig.editorconfig
+F:\ASP.NET CORE\WeBloge\WeBloge.Application\obj\Debug\net5.0\WeBloge.Application.AssemblyInfoInputs.cache
+F:\ASP.NET CORE\WeBloge\WeBloge.Application\obj\Debug\net5.0\WeBloge.Application.AssemblyInfo.cs
+F:\ASP.NET CORE\WeBloge\WeBloge.Application\obj\Debug\net5.0\WeBloge.Application.csproj.CoreCompileInputs.cache
+F:\ASP.NET CORE\WeBloge\WeBloge.Application\obj\Debug\net5.0\WeBloge.Application.csproj.CopyComplete
+F:\ASP.NET CORE\WeBloge\WeBloge.Application\obj\Debug\net5.0\WeBloge.Application.dll
+F:\ASP.NET CORE\WeBloge\WeBloge.Application\obj\Debug\net5.0\refint\WeBloge.Application.dll
+F:\ASP.NET CORE\WeBloge\WeBloge.Application\obj\Debug\net5.0\WeBloge.Application.pdb
+F:\ASP.NET CORE\WeBloge\WeBloge.Application\obj\Debug\net5.0\WeBloge.Application.genruntimeconfig.cache
+F:\ASP.NET CORE\WeBloge\WeBloge.Application\obj\Debug\net5.0\ref\WeBloge.Application.dll

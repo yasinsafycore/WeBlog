@@ -1,0 +1,78 @@
+﻿
+<!-- Navigation-->
+<nav class="navbar navbar-expand-lg fixed-top">
+    <div class="container-fluid">
+        <!--logo-->
+        <div class="logo">
+            <a href="/">
+                <img src="/img/logo-dark.png" alt="" class="logo-dark">
+                <img src="/img/logo-white.png" alt="" class="logo-white">
+            </a>
+        </div>
+        <!--/-->
+        <!--navbar-collapse-->
+        <div class="collapse navbar-collapse" id="main_nav">
+            <ul class="navbar-nav ml-auto mr-auto">
+                @if (User.Identity.IsAuthenticated) 
+                {
+                    <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle" data-toggle="dropdown">ناحیه کاربری</a>
+                        <ul class="dropdown-menu fade-up">
+                            <li>
+                                <a class="dropdown-item" asp-action="EditProfile" asp-controller="UserPanel">تنظیمات حساب</a>
+                            </li>
+                            <li>
+                                <a class="dropdown-item" asp-action="ChangePassword" asp-controller="UserPanel">تغییر کلمه عبور</a>
+                            </li>
+                            <li>
+                                <a class="dropdown-item" asp-action="Logout" asp-controller="Account">خروج از حساب</a>
+                            </li>
+                        </ul>
+                    </li>
+                }
+                else
+                {
+                    <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle" data-toggle="dropdown">ورود / ثبت نام</a>
+                        <ul class="dropdown-menu fade-up">
+                            <li>
+                                <a class="dropdown-item" asp-action="Login" asp-controller="Account"> ورود </a>
+                            </li>
+                            <li>
+                                <a class="dropdown-item" asp-action="Register" asp-controller="Account"> ثبت نام </a>
+                            </li>
+                        </ul>
+                    </li>
+                }
+
+                <li class="nav-item dropdown">
+                    <a class="nav-link  dropdown-toggle" data-toggle="dropdown">دسته بندی مقالات</a>
+                    @await Component.InvokeAsync("ShowCategories")
+                </li>
+
+                <li class="nav-item">
+                    <a class="nav-link" asp-action="WriterProfile" asp-controller="WeBloge">نویسنده</a>
+                </li>
+
+                <li class="nav-item">
+                    <a class="nav-link" asp-action="ContactUs" asp-controller="WeBloge"> ارتباط با ما </a>
+                </li>
+            </ul>
+        </div>
+        <!--/-->
+        <!--navbar-right-->
+        <div class="navbar-right ml-auto">
+            <div class="theme-switch-wrapper">
+                <label class="theme-switch" for="checkbox">
+                    <input type="checkbox" id="checkbox" />
+                    <div class="slider round"></div>
+                </label>
+            </div>
+
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#main_nav" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+        </div>
+    </div>
+</nav>
+<!--/-->

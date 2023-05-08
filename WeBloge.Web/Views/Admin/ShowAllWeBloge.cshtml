@@ -1,0 +1,79 @@
+﻿@using WeBloge.Application.Extensions
+@using WeBloge.Domain.Entities.Admin
+@model List<WeBloge.Domain.Entities.Admin.WeBloges>;
+
+@{
+    ViewData["Title"] = "لیست وبلاگ ها";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+@if (!Model.Any())
+{
+    <div class="alert alert-danger col-lg-5" role="alert">
+        هنوز وبلاگی وارد نشده است! لطفا ابتدا <a asp-action="CreateModel" asp-controller="Admin">وبلاگ را وارد کنید</a>.
+    </div>
+}
+
+else
+{
+    <div class="row">
+        <div class="col-lg-9">
+            <div class="card">
+                <div class="card-body">
+                    <h4 class="card-title">لیست وبلاگ ها</h4>
+                    <p class="card-title-desc">برای <a asp-action="CreateModel" asp-controller="Admin">اضافه کردن وبلاگ</a> به روی آن کلیک کنید</p>
+
+                    <div class="table-responsive">
+                        <table class="table mb-0">
+
+                            <thead>
+                                <tr>
+                                    <th>نام وبلاگ</th>
+                                    <th>تاریخ ثبت</th>
+                                </tr>
+                            </thead>
+
+                            <tbody>
+                                @foreach (var item in Model)
+                                {
+
+                                    if (item.IsDelete)
+                                    {
+                                        <div class="alert alert-danger col-lg-5" role="alert">
+                                            هنوز وبلاگی وارد نشده است! لطفا ابتدا <a asp-action="CreateModel" asp-controller="Admin">وبلاگ را وارد کنید</a>.
+                                        </div>
+                                    }
+
+                                    else
+                                    {
+                                        <tr>
+                                            <td>@item.Title</td>
+                                            <td>@item.CreateDate.GetDataShamsi()</td>
+                                            <td style="width: 10%;">
+                                                <a class="btn btn-primary waves-effect waves-light" asp-action="UpdateWeBloges" asp-controller="Admin" asp-route-weBlogesId="@item.Id" role="button">ویرایش</a>
+                                            </td>
+                                            <td style="width: 22%;">
+                                                <a class="btn btn-primary waves-effect waves-light" asp-action="UpdateImg" asp-controller="Admin" asp-route-weBlogesId="@item.Id" role="button">ویرایش تصویر صفحه</a>
+                                            </td>
+                                            <td style="width: 5%;">
+                                                <a class="btn btn-danger" asp-action="DeleteWeBloges" asp-controller="Admin" asp-route-weBlogesId="@item.Id" role="button">حذف</a>
+                                            </td>
+
+                                        </tr>
+                                    }
+
+                                }
+
+                            </tbody>
+
+                        </table>
+                    </div>
+
+                </div>
+            </div>
+        </div>
+
+    </div>
+
+    <partial name="_pagination" />
+}
